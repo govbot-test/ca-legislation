@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><html xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+        .center {
+        margin: auto;
+        width: 60%;
+        border: 3px solid #624200;
+        padding: 10px;
+    }
+</style><head id="j_idt3">
+    <meta name="disable-adaptations" content="watch" />
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <link href="https://leginfo.legislature.ca.gov/resources/css/leginfo_master.css?v=1" rel="stylesheet" type="text/css" media="screen,print" />
+
+    <link rel="stylesheet" type="text/css" href="https://leginfo.legislature.ca.gov/resources/css/leginfo_mobile.css?v=1" media="screen and (max-width: 767px)" />
+
+    <link rel="stylesheet" href="https://leginfo.legislature.ca.gov/resources/css/leginfo_print.css?v=1" media="print" type="text/css" />
+    <link href="https://leginfo.legislature.ca.gov/resources/css/leginfo_codes.css?v=1" rel="stylesheet" type="text/css" media="screen,print" />
+
+     
+    <link href="https://leginfo.legislature.ca.gov/resources/css/leginfo_master.css?v=1" rel="stylesheet" type="text/css" media="screen and (min-device-width: 1200px)           and (max-device-width: 1600px)  and (-webkit-min-device-pixel-ratio: 1) " />
+<link rel="stylesheet" type="text/css" href="https://leginfo.legislature.ca.gov/resources/css/leginfo_mobile_low_res.css?v=1" media="screen and (max-device-width: 480px)and (-webkit-max-device-pixel-ratio: 1)" />
+        <title>California Legislative Information</title>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <script src="https://www.google.com/recaptcha/api.js?onload=loadCaptcha"></script></head><body>
+        <script>
+            function onSubmit(token) {
+                document.getElementById('finalsubmit:submitfilebtn').click();
+                
+            }
+        </script><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+    <script language="JavaScript">
+        function changePlaceHolder() {
+            var x = document.getElementById("billheaderinit_form:quick_search_select_id");
+            var input = document.getElementById("billheaderinit_form:searchall");
+
+            if (x !== null) {
+                for (i = 0; i < x.options.length; i++) {
+                    if (x.options[i].selected) {
+                        if (x.options[i].value === 'billKeyword') {
+                            input.placeholder = "Search phrase";
+                        } else {
+                            input.placeholder = "AB1 or ab 1 or ABX1-1";
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <body onload="changePlaceHolder()">
+<form id="billheaderinit_form" name="billheaderinit_form" method="post" action="/faces/captcha.xhtml" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="billheaderinit_form" value="billheaderinit_form" />
+
+
+            <!--&lt;div class="skip textright"&gt;&lt;/div&gt;--><!-- END: skip textright div -->
+            <div id="banner">
+
+                <div id="logo"><script type="text/javascript" src="/faces/javax.faces.resource/jsf.js?ln=javax.faces"></script><a id="billheaderinit_form:header_img" href="#" onclick="mojarra.jsfcljs(document.getElementById('billheaderinit_form'),{'billheaderinit_form:header_img':'billheaderinit_form:header_img'},'');return false">
+                        <img id="capitol" alt="Legislative Information header image: click to go to the home page" src="https://leginfo.legislature.ca.gov/resources/images/header_img.png" /></a>
+                </div><!-- END: logo div -->
+                <div id="logo_mobile">
+                    <img id="capitol_mobile1" alt="Legislative Information header image" src="/resources/images/header_img_mobile_01.png" /><a id="billheaderinit_form:header_img_mobile2" href="#" onclick="mojarra.jsfcljs(document.getElementById('billheaderinit_form'),{'billheaderinit_form:header_img_mobile2':'billheaderinit_form:header_img_mobile2'},'');return false">
+                        <img id="capitol_mobile2" alt="home image: click to go to the home page" src="/resources/images/header_img_mobile_02.png" /></a><a id="billheaderinit_form:header_img_mobile25" href="#" onclick="mojarra.jsfcljs(document.getElementById('billheaderinit_form'),{'billheaderinit_form:header_img_mobile25':'billheaderinit_form:header_img_mobile25'},'');return false">
+                        <img id="capitol_mobile25" alt="Bill Search image: click to go to the bill search page" src="/resources/images/header_img_mobile_025.png" /></a>
+                    <a href="" onclick="history.back();                             return false;">
+                        <img id="capitol_mobile3" alt="back button image: click to go to previous page" src="/resources/images/header_img_mobile_03.png" /></a>
+                    <br />
+                    <img id="capitol_mobile4" alt="Legislative Information text image" src="/resources/images/header_img_mobile_04.png" />
+                </div>
+
+            </div><!-- END: banner div --><!-- End Header --><!-- End Header --><!-- Begin Navigation --><input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:0" value="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" autocomplete="off" />
+</form>
+        <a name="content_anchor" id="content_anchor"></a>
+    </body>
+</html>
+            <div class="center">
+<form id="finalsubmit" name="finalsubmit" method="post" action="/faces/captcha.xhtml" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="finalsubmit" value="finalsubmit" />
+
+                <h2>Confirm Captcha Submission</h2>
+                
+                <div class="g-recaptcha" data-action="submit" data-sitekey="6LeY1zclAAAAAC4khbd7sb-oyqB01d05ucvtnpav"></div><input type="submit" name="finalsubmit:j_idt23" value="Submit" /><input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:1" value="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" autocomplete="off" />
+</form>
+            </div></body>
+</html>
