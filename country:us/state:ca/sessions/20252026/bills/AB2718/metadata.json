@@ -1,0 +1,105 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB2718",
+  "title": "City streets: change of grade.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Citystreets",
+    "changeofgrade"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The Change of Grade Act of 1909 authorizes the city council of a city to change or modify the grade of its city streets in the manner provided by the act.\n\nThis bill would make nonsubstantive changes to this provision."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab2718"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 23.",
+      "date": "2026-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Zbur",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Zbur\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB2718",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2718",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/20/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2718&version=20250AB271899INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-20",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2718",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 8020 of the Streets and Highways Code, relating to city streets.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:55Z"
+  }
+}

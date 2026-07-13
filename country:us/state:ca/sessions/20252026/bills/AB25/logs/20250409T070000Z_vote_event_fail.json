@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Reconsideration.",
+  "motion_classification": [],
+  "start_date": "2025-04-09T07:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "20252026",
+  "bill": "e07a2c2a-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "AB25",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Tangipa",
+      "voter_id": "~{\"name\": \"Tangipa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Macedo",
+      "voter_id": "~{\"name\": \"Macedo\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Stefani",
+      "voter_id": "~{\"name\": \"Stefani\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Berman",
+      "voter_id": "~{\"name\": \"Berman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bennett",
+      "voter_id": "~{\"name\": \"Bennett\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Pellerin",
+      "voter_id": "~{\"name\": \"Pellerin\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Solache",
+      "voter_id": "~{\"name\": \"Solache\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 2
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB25",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB25#0"
+}

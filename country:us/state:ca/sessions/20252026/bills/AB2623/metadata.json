@@ -1,0 +1,178 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB2623",
+  "title": "Public utilities: rate changes: notifications.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Publicutilities",
+    "notifications",
+    "ratechanges"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law vests the Public Utilities Commission with regulatory jurisdiction over public utilities. Existing law, except as provided, prohibits a public utility from making a change in a rate or classification, or in a rule or contract relating to, or affecting, a rate, classification, or service, or in a privilege or facility, unless the public utility provides 30 days' notice, as specified, to the commission and the public. Under existing law, a violation of this requirement is a crime.\n\nThis bill would extend the notice requirement to 60 days' notice. By expanding the scope of a crime, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "State Air Resources Board."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab2623"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 23.",
+      "date": "2026-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on U. & E.",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on U. & E.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to Com. on U. & E. Read second time and amended.",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on U. & E.",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on U. & E.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Petrie-Norris",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Petrie-Norris\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB2623",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2623",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/20/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2623&version=20250AB262399INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-20",
+      "classification": ""
+    },
+    {
+      "note": "03/16/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2623&version=20250AB262398AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-16",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2623",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 491 of the Public Utilities Code, relating to public utilities.",
+    "tags": [
+      "fiscal committee",
+      "local program"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:02Z"
+  }
+}

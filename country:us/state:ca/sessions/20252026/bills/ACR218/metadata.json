@@ -1,0 +1,176 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "ACR218",
+  "title": "Relative to the Huuc Atam Highway.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "TheHuucAtamHighway"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "This measure would designate a specified portion of State Route 18 in the County of San Bernardino as the Huuc Atam Highway. The measure would request that the Department of Transportation determine the cost of appropriate signs showing this special designation and, upon receiving donations from nonstate sources sufficient to cover the cost, to erect those signs."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-acr218"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To print.",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "From printer.",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on TRANS.",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on TRANS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "From committee: Be adopted. To Consent Calendar. (Ayes 15. Noes 0.) (June 29).",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "Adopted and to Senate. (Ayes 70. Noes 0.)",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "In Senate. To Com. on RLS.",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ramos",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ramos\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "ACR218",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACR218",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "06/03/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACR218&version=20250ACR21899INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-03",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "06/26/26- Assembly Transportation",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260ACR218&analysisId=401148&analyzingOffice=Assembly+Transportation",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-26",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACR218",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:06Z"
+  }
+}

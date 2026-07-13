@@ -1,0 +1,125 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB2363",
+  "title": "Individual Shared Responsibility Penalty: exemption.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "IndividualSharedResponsibilityPenalty",
+    "exemption"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law establishes the Minimum Essential Coverage Individual Mandate to require an individual who is a California resident to ensure that the individual, and any spouse or dependent of the individual, is enrolled in and maintains minimum essential health insurance coverage for each month beginning on and after January 1, 2020, except as specified. Existing law imposes an Individual Shared Responsibility Penalty for the failure to maintain minimum essential health insurance coverage, as determined and collected by the Franchise Tax Board in collaboration with the California Health Benefit Exchange, as specified. Existing law prohibits the imposition of this penalty on an individual for a month in which any of certain circumstances apply.\n\nThis bill would additionally prohibit the imposition of an Individual Shared Responsibility Penalty for a month if the applicable household member, as defined, with respect to whom the penalty would otherwise be imposed was enrolled in Medi-Cal in 2024 or 2025."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab2363"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 22.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on HEALTH.",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HEALTH.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bains",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bains\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB2363",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2363",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/19/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2363&version=20250AB236399INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2363",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 61020 of the Revenue and Taxation Code, relating to taxes and charges.",
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:13Z"
+  }
+}

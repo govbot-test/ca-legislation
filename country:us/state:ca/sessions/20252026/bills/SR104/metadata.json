@@ -1,0 +1,229 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "SR104",
+  "title": "Relative to aging and chronic disease policy.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-sr104"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. Referred to Com. on RLS.",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on HUMAN S.",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HUMAN S.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "Set for hearing June 1.",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "From committee: Be adopted. Ordered to consent calendar. (Ayes 5. Noes 0.) (June 1).",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to consent calendar.",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "From consent calendar on motion of Senator Becker.",
+      "date": "2026-06-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-06-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. (Ayes 36. Noes 0.)",
+      "date": "2026-06-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Becker",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Becker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Weber Pierson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Weber Pierson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SR104",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SR104",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/27/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SR104&version=20250SR10499INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-27",
+      "classification": ""
+    },
+    {
+      "note": "06/10/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SR104&version=20250SR10498ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-10",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "05/28/26- Senate Human Services",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SR104&analysisId=399378&analyzingOffice=Senate+Human+Services",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-28",
+      "classification": "analysis"
+    },
+    {
+      "note": "06/05/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SR104&analysisId=399603&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-05",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SR104",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:14Z"
+  }
+}

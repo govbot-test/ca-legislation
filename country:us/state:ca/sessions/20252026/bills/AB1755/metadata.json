@@ -1,0 +1,440 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1755",
+  "title": "CalWORKS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CalWORKS"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing federal law, the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, replaced the federal Aid to Families with Dependent Children (AFDC) program with the federal Temporary Assistance to Needy Families (TANF) block grant program. Existing federal law provides for allocation of federal funds through the federal TANF block grant program to eligible states. Existing law establishes the California Work Opportunity and Responsibility to Kids (CalWORKs) program, under which, through a combination of state and county funds and federal funds received through the TANF program, each county provides cash assistance and other benefits to qualified low-income families.\n\nExisting law requires aid to be granted to a family with a related child under 18 years of age who has been deprived of parental support or care due to the unemployment, continued absence, death, incapacity, or incarceration of a parent. Existing law considers a child to be deprived of parental support or care due to unemployment of the child's parent or parents when the child's parent or parents have worked less than 100 hours in the preceding 4 weeks and meets specified requirements related to the federal AFDC program.\n\nThis bill would, for purposes of determining a child's deprivation of parental support or care, delete the requirements that the parent or parents work less than 100 hours in the preceding 4 weeks and meet the federal AFDC program requirements. The bill would instead disregard the number of hours that the child's parent or parents work, provided the family does not exceed the applicable gross or net income limits and is otherwise eligible for assistance. To the extent that the bill would expand eligibility for the CalWORKs program, thereby imposing a higher level of service on counties, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1755"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 12.",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on HUM. S.",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HUM. S.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "Coauthors revised.",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (March 24). Re-referred to Com. on APPR.",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "APPR",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "APPR. suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 15. Noes 0.) (May 14).",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate. (Ayes 78. Noes 0.)",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on HUMAN S.",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HUMAN S.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on HUMAN S.",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HUMAN S.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 0.) (June 15). Re-referred to Com. on APPR.",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sharp-Collins",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sharp-Collins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lee",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aguiar-Curry",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Aguiar-Curry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garcia",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Garcia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Gonz\u00e1lez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Gonz\\u00e1lez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jackson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ransom",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ransom\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tangipa",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tangipa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ward",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ward\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zbur",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zbur\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rubio",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rubio\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1755",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1755",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/09/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1755&version=20250AB175599INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-09",
+      "classification": ""
+    },
+    {
+      "note": "06/03/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1755&version=20250AB175598AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-03",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "03/21/26- Assembly Human Services",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1755&analysisId=394552&analyzingOffice=Assembly+Human+Services",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-21",
+      "classification": "analysis"
+    },
+    {
+      "note": "04/20/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1755&analysisId=396583&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-20",
+      "classification": "analysis"
+    },
+    {
+      "note": "05/20/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1755&analysisId=398845&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-20",
+      "classification": "analysis"
+    },
+    {
+      "note": "06/11/26- Senate Human Services",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1755&analysisId=399825&analyzingOffice=Senate+Human+Services",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-11",
+      "classification": "analysis"
+    },
+    {
+      "note": "06/26/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1755&analysisId=401357&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-26",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1755",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 11201 of the Welfare and Institutions Code, relating to CalWORKs.",
+    "tags": [
+      "fiscal committee",
+      "local program"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:02Z"
+  }
+}

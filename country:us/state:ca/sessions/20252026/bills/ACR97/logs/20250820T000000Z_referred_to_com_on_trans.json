@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Referred to Com. on TRANS.",
+    "occurred_at": "2025-08-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "20252026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on TRANS.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACR97",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "ACR97"
+}

@@ -1,0 +1,170 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1292",
+  "title": "County community schools and juvenile court schools: administration and operation.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Countycommunityschoolsandjuvenilecourtschools",
+    "administrationandoperation"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "(1) Existing law authorizes a county board of education to establish and maintain one or more county community schools and authorizes a county board of education to enroll certain pupils in county community schools.\n\nThis bill would authorize a county board of education to contract with the governing board or body of a local educational agency located within the county of the county board of education for the administration and operation of a county community school.\n\n(2) Existing law requires a county board of education to provide for the administration and operation of public schools in juvenile halls, juvenile ranches, and juvenile camps, among others, known as juvenile court schools, by the county superintendent of schools or by contract with the respective governing boards of the elementary, high school, or unified school district in which the juvenile court school is located.\n\nThis bill would require a county board of education to instead provide for the administration and operation of a juvenile court school by the county superintendent of schools or by contract with the governing board or body of a local educational agency located within the county of the county board of education."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1292"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To print.",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 24.",
+      "date": "2025-02-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "Read first time.",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on ED.",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on ED.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "date": "2025-04-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+      "date": "2026-01-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hadwick",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hadwick\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1292",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1292",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/21/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1292&version=20250AB129299INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-21",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1292",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Sections 1980, 48645.2, and 48646 of the Education Code, relating to public schools.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:55Z"
+  }
+}

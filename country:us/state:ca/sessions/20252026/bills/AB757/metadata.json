@@ -1,0 +1,158 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB757",
+  "title": "School finance: budget reports.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Schoolfinance",
+    "budgetreports"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law requires the superintendent of each school district to submit 2 reports to the governing board of the school district during each fiscal year. Existing law requires the first report to cover the financial and budgetary status of the school district for the period ending October 31, and the second report to cover the period ending January 31. Existing law requires both reports to be approved by the governing board of the school district no later than 45 days after the close of the period being reported.\n\nExisting law requires the governing board of each school district to hold an annual organizational meeting. In a year in which a regular election for governing board members is conducted, existing law requires the meeting to be held on a day within a 15-day period that commences with the 2nd Friday in December following the regular election. In years in which no regular election for governing board members is conducted, existing law requires organizational meetings to be held on any date in December, but no later than December 20.\n\nThis bill would, for those years in which a regular election for members of the governing board of the school district is conducted, extend the deadline for the governing board of the school district to approve the report for the period ending October 31 to instead be no later than December 20."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab757"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 21.",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on ED.",
+      "date": "2025-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on ED.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+      "date": "2026-01-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Pacheco",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pacheco\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB757",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB757",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/18/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB757&version=20250AB75799INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB757",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 42130 of the Education Code, relating to school finance.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:08Z"
+  }
+}

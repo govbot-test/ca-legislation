@@ -1,0 +1,388 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "SCR86",
+  "title": "Relative to Juneteenth.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "Juneteenth"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "This measure would recognize June 19, 2025, as Juneteenth and would urge the people of California to join in celebrating Juneteenth as a day to honor and reflect on the significant role that African Americans have played in the history of the United States and how they have enriched society through their steadfast commitment to promoting unity and equality."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-scr86"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. Referred to Com. on RLS.",
+      "date": "2025-05-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+      "date": "2025-05-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "From committee: Ordered to third reading.",
+      "date": "2025-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. (Ayes 34. Noes 0. Page 1615.) Ordered to the Assembly.",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "In Assembly. Held at Desk.",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on RLS.",
+      "date": "2025-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "From committee: Be adopted. Ordered to consent calendar. (Ayes 10. Noes 0.) (June 30).",
+      "date": "2025-06-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. (Ayes 74. Noes 0. Page 2428.) Ordered to the Senate.",
+      "date": "2025-07-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "In Senate. Ordered to engrossing and enrolling.",
+      "date": "2025-07-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "Enrolled and filed with the Secretary of State at 2 p.m.",
+      "date": "2025-07-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Res. Chapter 138, Statutes of 2025.",
+      "date": "2025-07-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Weber Pierson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Weber Pierson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richardson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Smallwood-Cuevas",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Smallwood-Cuevas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonta",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bryan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elhawary",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elhawary\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gipson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gipson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jackson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McKinnor",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McKinnor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ransom",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ransom\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sharp-Collins",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sharp-Collins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wilson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SCR86",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SCR86",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/23/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR86&version=20250SCR8699INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-05-23",
+      "classification": ""
+    },
+    {
+      "note": "05/29/25 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR86&version=20250SCR8698AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-05-29",
+      "classification": ""
+    },
+    {
+      "note": "07/08/25 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR86&version=20250SCR8697ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-08",
+      "classification": ""
+    },
+    {
+      "note": "07/10/25 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR86&version=20250SCR8696CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-10",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "06/04/25- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SCR86&analysisId=388151&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-06-04",
+      "classification": "analysis"
+    },
+    {
+      "note": "06/27/25- Assembly Rules",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SCR86&analysisId=389148&analyzingOffice=Assembly+Rules",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-06-27",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SCR86",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:59Z"
+  }
+}

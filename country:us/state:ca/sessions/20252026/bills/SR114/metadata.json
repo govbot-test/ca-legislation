@@ -1,0 +1,185 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "SR114",
+  "title": "Relative to Advancement Via Individual Determination Week.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-sr114"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. Referred to Com. on RLS.",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "From committee: Ordered to third reading.",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. (Ayes 38. Noes 0.)",
+      "date": "2026-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Niello",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Niello\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alvarado-Gil",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alvarado-Gil\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Choi",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Choi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hurtado",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hurtado\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ochoa Bogh",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ochoa Bogh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "P\u00e9rez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"P\\u00e9rez\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SR114",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SR114",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/13/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SR114&version=20250SR11499INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-13",
+      "classification": ""
+    },
+    {
+      "note": "06/22/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SR114&version=20250SR11498ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-22",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "05/20/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SR114&analysisId=398956&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-20",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SR114",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:00Z"
+  }
+}

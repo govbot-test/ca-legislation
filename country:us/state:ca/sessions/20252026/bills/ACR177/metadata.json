@@ -1,0 +1,104 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "ACR177",
+  "title": "Relative to Amyotrophic Lateral Sclerosis Awareness Month.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "AmyotrophicLateralSclerosisAwarenessMonth"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "This measure would proclaim the month of May 2026 as Amyotrophic Lateral Sclerosis Awareness Month in California."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-acr177"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To print.",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:03Z"
+      }
+    },
+    {
+      "description": "From printer.",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "DeMaio",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DeMaio\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "ACR177",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACR177",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/16/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACR177&version=20250ACR17799INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-16",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACR177",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:03Z"
+  }
+}

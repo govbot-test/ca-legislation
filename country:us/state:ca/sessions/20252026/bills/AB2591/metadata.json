@@ -1,0 +1,160 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB2591",
+  "title": "Personal income tax: standard deduction: federal poverty level.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Personalincometax",
+    "federalpovertylevel",
+    "standarddeduction"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The Personal Income Tax Law imposes taxes based upon taxable income of individuals, estates, and trusts, at specified rates, and allows a taxpayer to elect to take a standard deduction in lieu of itemizing deductions. Under existing law, for the taxable year beginning on January 1, 2025, the standard deduction is $11,412 for heads of household, surviving spouses, and married couples filing a joint return and $5,706 for other individuals. Existing law requires the Franchise Tax Board to adjust those amounts annually for inflation, as provided. \n\nThis bill, the Taxing Californians into Poverty Protection Act, for taxable years beginning on or after July 1, 2027, would instead allow a taxpayer to elect to take a standard deduction equal to the federal poverty level, as adjusted for the number of persons in the household, as specified, in lieu of itemizing deductions. The federal poverty level for 2025 was $15,650 for a household of one, as specified. \n\nThis bill would take effect immediately as a tax levy."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab2591"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 23.",
+      "date": "2026-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on REV. & TAX.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on REV. & TAX.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "In committee: Set, second hearing. Hearing canceled at the request of author.",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bains",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bains\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB2591",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2591",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/20/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2591&version=20250AB259199INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-20",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "04/10/26- Assembly Revenue and Taxation",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2591&analysisId=395381&analyzingOffice=Assembly+Revenue+and+Taxation",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-10",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2591",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 17073.5 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.",
+    "tags": [
+      "fiscal committee",
+      "urgency",
+      "tax levy"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:10Z"
+  }
+}

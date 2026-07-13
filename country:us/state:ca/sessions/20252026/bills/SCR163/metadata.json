@@ -1,0 +1,517 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "SCR163",
+  "title": "Relative to California Tourism Month.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "CaliforniaTourismMonth"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "This measure would proclaim the month of May 2026 as California Tourism Month and would urge the citizens of this great state to support tourism and local businesses by traveling in the state as an act of civic pride."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-scr163"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. Referred to Com. on RLS.",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "From committee: Ordered to third reading.",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. (Ayes 36. Noes 0. Page 4211.) Ordered to the Assembly.",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "In Assembly. Held at Desk.",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on RLS.",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "Coauthors revised.",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "From committee: Be adopted. Ordered to consent calendar. (Ayes 9. Noes 0.) (May 26).",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. Ordered to the Senate.",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "In Senate. Ordered to engrossing and enrolling.",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "Enrolled and filed with the Secretary of State at 3 p.m.",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Res. Chapter 84, Statutes of 2026.",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ochoa Bogh",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ochoa Bogh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alvarado-Gil",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alvarado-Gil\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Arregu\u00edn",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Arregu\\u00edn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ashby",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ashby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blakespear",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blakespear\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Caballero",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Caballero\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Choi",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Choi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dahle",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dahle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Durazo",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Durazo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grove",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grove\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hurtado",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hurtado\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jones",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jones\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McGuire",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McGuire\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McNerney",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McNerney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Niello",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Niello\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Padilla",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Padilla\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reyes",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Reyes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seyarto",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seyarto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stern",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stern\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Strickland",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Strickland\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Valladares",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Valladares\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wahab",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wahab\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grayson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grayson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Calderon",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Calderon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chen",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hadwick",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hadwick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tangipa",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tangipa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alanis",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alanis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ward",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ward\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zbur",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zbur\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SCR163",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SCR163",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/20/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR163&version=20250SCR16399INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-20",
+      "classification": ""
+    },
+    {
+      "note": "06/02/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR163&version=20250SCR16398ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-02",
+      "classification": ""
+    },
+    {
+      "note": "06/05/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR163&version=20250SCR16397CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-05",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "04/29/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SCR163&analysisId=397271&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-29",
+      "classification": "analysis"
+    },
+    {
+      "note": "05/22/26- Assembly Rules",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SCR163&analysisId=399334&analyzingOffice=Assembly+Rules",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-22",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SCR163",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:14Z"
+  }
+}

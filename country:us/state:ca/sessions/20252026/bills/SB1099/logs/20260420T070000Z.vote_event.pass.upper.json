@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass",
+  "motion_classification": [],
+  "start_date": "2026-04-20T07:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "20252026",
+  "bill": "9459fdd4-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "SB1099",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Weber Pierson",
+      "voter_id": "~{\"name\": \"Weber Pierson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Laird",
+      "voter_id": "~{\"name\": \"Laird\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Becker",
+      "voter_id": "~{\"name\": \"Becker\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Niello",
+      "voter_id": "~{\"name\": \"Niello\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "P\u00e9rez",
+      "voter_id": "~{\"name\": \"P\\u00e9rez\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1099",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB1099#1"
+}

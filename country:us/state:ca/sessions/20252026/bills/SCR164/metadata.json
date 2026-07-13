@@ -1,0 +1,355 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "SCR164",
+  "title": "Relative to Black Health Equity Advocacy Week.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "BlackHealthEquityAdvocacyWeek"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "This measure would recognize May 4, 2026, to May 8, 2026, inclusive, and every first full week of May thereafter, as Black Health Equity Advocacy Week and commend the California Black Health Network and other organizations throughout the state for their efforts to improve the health, well-being, and life expectancy of Black Californians."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-scr164"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. Referred to Com. on RLS.",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:03Z"
+      }
+    },
+    {
+      "description": "From committee: Ordered to third reading.",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:03Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. (Ayes 40. Noes 0. Page 4133.) Ordered to the Assembly.",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:03Z"
+      }
+    },
+    {
+      "description": "In Assembly. Held at Desk.",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:03Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on RLS.",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:03Z"
+      }
+    },
+    {
+      "description": "From committee: Be adopted. Ordered to consent calendar. (Ayes 9. Noes 0.) (May 18).",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:03Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. (Ayes 68. Noes 0. Page 5232.) Ordered to the Senate.",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:03Z"
+      }
+    },
+    {
+      "description": "In Senate. Ordered to engrossing and enrolling.",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:03Z"
+      }
+    },
+    {
+      "description": "Enrolled and filed with the Secretary of State at 3 p.m.",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:03Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Res. Chapter 79, Statutes of 2026.",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Weber Pierson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Weber Pierson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richardson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Smallwood-Cuevas",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Smallwood-Cuevas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonta",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bryan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elhawary",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elhawary\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gipson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gipson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jackson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McKinnor",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McKinnor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ransom",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ransom\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sharp-Collins",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sharp-Collins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wilson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SCR164",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SCR164",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/21/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR164&version=20250SCR16499INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-21",
+      "classification": ""
+    },
+    {
+      "note": "05/22/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR164&version=20250SCR16498ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-22",
+      "classification": ""
+    },
+    {
+      "note": "05/29/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR164&version=20250SCR16497CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-29",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "04/29/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SCR164&analysisId=397272&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-29",
+      "classification": "analysis"
+    },
+    {
+      "note": "05/15/26- Assembly Rules",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SCR164&analysisId=398540&analyzingOffice=Assembly+Rules",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-15",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SCR164",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:03Z"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass and be re-referred to the Committee on [Appropriations]",
+  "motion_classification": [],
+  "start_date": "2026-03-25T07:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "20252026",
+  "bill": "d3ae007a-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "AB1993",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gallagher",
+      "voter_id": "~{\"name\": \"Gallagher\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Stefani",
+      "voter_id": "~{\"name\": \"Stefani\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Berman",
+      "voter_id": "~{\"name\": \"Berman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Addis",
+      "voter_id": "~{\"name\": \"Addis\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Pellerin",
+      "voter_id": "~{\"name\": \"Pellerin\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Elhawary",
+      "voter_id": "~{\"name\": \"Elhawary\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Solache",
+      "voter_id": "~{\"name\": \"Solache\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 2
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1993",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1993#0"
+}

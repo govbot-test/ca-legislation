@@ -1,0 +1,126 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1580",
+  "title": "Counties: offices: consolidation.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Counties",
+    "consolidation",
+    "offices"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law authorizes the board of supervisors of specified counties to, by ordinance, consolidate the duties of the offices of Auditor-Controller and Treasurer-Tax Collector into the elected office of Auditor-Controller-Treasurer-Tax Collector.\n\nThis bill would additionally authorize the board of supervisors of the County of Amador to consolidate the duties of the offices of Auditor-Controller and Treasurer-Tax Collector into the elected office of Auditor-Controller-Treasurer-Tax Collector when a vacancy in either the office of Auditor-Controller or in the office of Treasurer-Tax Collector occurs.\n\nThis bill would make legislative findings and declarations as to the necessity of a special statute for the County of Amador.\n\nThis bill would declare that it is to take effect immediately as an urgency statute."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1580"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee February 13.",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on L. GOV.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on L. GOV.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hadwick",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hadwick\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1580",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1580",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/13/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1580&version=20250AB158099INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-13",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1580",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 24304.2 of the Government Code, relating to local government, and declaring the urgency thereof, to take effect immediately.",
+    "tags": [
+      "urgency"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:10Z"
+  }
+}

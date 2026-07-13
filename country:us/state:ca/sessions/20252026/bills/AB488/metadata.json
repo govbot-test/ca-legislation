@@ -1,0 +1,148 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB488",
+  "title": "Insurance: the California FAIR Plan Association.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Insurance",
+    "theCaliforniaFAIRPlanAssociation"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law required, within 90 days after July 23, 2021, the California FAIR Plan Association to file a new or amended rate application for basic property insurance with the Insurance Commissioner. Existing law also requires the association to establish and maintain a statewide toll-free telephone number through which a person may receive information and assistance in applying for insurance through the plan and to cause the toll-free telephone number to be published in all general distribution telephone directories in the state. \n\nThis bill would repeal the requirement to file a new or amended rate application and would delete the requirement that the toll-free number be published in all general distribution telephone directories in the state."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab488"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2025-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 13.",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on INS.",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on INS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    },
+    {
+      "description": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+      "date": "2026-01-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    },
+    {
+      "description": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tangipa",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tangipa\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB488",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB488",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/10/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB488&version=20250AB48899INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-10",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB488",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 10095.5 of, and to repeal Section 10094.5 of, the Insurance Code, relating to insurance.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:05Z"
+  }
+}

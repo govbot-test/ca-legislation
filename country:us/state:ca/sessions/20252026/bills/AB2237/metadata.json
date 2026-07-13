@@ -1,0 +1,387 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB2237",
+  "title": "Probation: term length.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Probation",
+    "termlength"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law, the Sex Offender Registration Act (act) , requires a person convicted of specified crimes to register with law enforcement as a sex offender while residing in California or while attending school or working in California, as specified. Existing law establishes 3 tiers of registration based on specified criteria, for periods of at least 10 years, at least 20 years, and life, respectively, for a conviction of specified sex offenses. Existing law authorizes courts that have jurisdiction in misdemeanor cases to suspend the sentence and make and enforce terms of probation in those cases, for a period not to exceed one year, except as specified.\n\nThis bill would authorize a court having jurisdiction to impose punishment in misdemeanor cases to suspend the sentence for an additional year, to allow for an individual required to register as a sex offender to complete an approved sex offender management program. The bill would require the period of time exceeding the one-year limit be terminated by the court upon the individual's successful completion of the approved sex offender management program. By extending the term of probation, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab2237"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 22.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on PUB. S.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on PUB. S.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Failed passage. Reconsideration granted.",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (April 21).",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "Read second time and amended.",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on APPR.",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "APPR",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "APPR. suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 15. Noes 0.) (May 14).",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate. (Ayes 71. Noes 0.)",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on PUB. S.",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on PUB. S.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "In committee: Set, second hearing. Hearing canceled at the request of author.",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "In committee: Set, final hearing. Failed passage. Reconsideration granted.",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Patterson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Patterson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hoover",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hoover\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB2237",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2237",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/19/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2237&version=20250AB223799INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": ""
+    },
+    {
+      "note": "04/23/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2237&version=20250AB223798AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-23",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "03/23/26- Assembly Public Safety",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2237&analysisId=394594&analyzingOffice=Assembly+Public+Safety",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": "analysis"
+    },
+    {
+      "note": "04/20/26- Assembly Public Safety",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2237&analysisId=396448&analyzingOffice=Assembly+Public+Safety",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-20",
+      "classification": "analysis"
+    },
+    {
+      "note": "05/05/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2237&analysisId=397695&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-05",
+      "classification": "analysis"
+    },
+    {
+      "note": "05/20/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2237&analysisId=398997&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-20",
+      "classification": "analysis"
+    },
+    {
+      "note": "06/28/26- Senate Public Safety",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2237&analysisId=401564&analyzingOffice=Senate+Public+Safety",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-28",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2237",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 1203a of the Penal Code, relating to probation.",
+    "tags": [
+      "fiscal committee",
+      "local program"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:08Z"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "ACR98",
+  "title": "Law enforcement: immigration actions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "Lawenforcement",
+    "immigrationactions"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "This measure would, among other things, call for an immediate end to policies that obstruct lawful immigration enforcement and urge the Governor to take immediate action to restore law and order."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-acr98"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To print.",
+      "date": "2025-06-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "From printer.",
+      "date": "2025-06-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gallagher",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gallagher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ellis",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ellis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Castillo",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Castillo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "DeMaio",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"DeMaio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dixon",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dixon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patterson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patterson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sanchez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sanchez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tangipa",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tangipa\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "ACR98",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACR98",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "06/12/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACR98&version=20250ACR9899INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-06-12",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACR98",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:06Z"
+  }
+}

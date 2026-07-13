@@ -1,0 +1,399 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB2592",
+  "title": "Lobbyist training.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Lobbyisttraining"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law requires the legislative ethics committee of each house of the Legislature to conduct at least semiannually an orientation course on the relevant ethical issues and laws related to lobbying, in consultation with the Fair Political Practices Commission. Existing law requires the committees to impose fees on lobbyists for attending these courses, as specified.\n\nThis bill would, commencing on January 1, 2029, require the Fair Political Practices Commission to develop, maintain, and offer an orientation course for registered lobbyists on the relevant ethical issues and laws relating to lobbying, and on each house of the legislature's policies against harassment, including sexual harassment, in connection with lobbying activities. The bill would require the course be developed with the legislative ethics committees and give the committees final approval over the content of the course that relates to the legislature's polices against harassment. The bill would require the course be available on-demand through an online platform, internet webpage, or application. The bill would authorize the commission to impose a fee on a lobbyist for the course, as specified. The bill would update cross-references.\n\nThe Political Reform Act of 1974, an initiative measure, provides that the Legislature may amend the act to further the act's purposes upon a 23 vote of each house of the Legislature and compliance with specified procedural requirements.\n\nThis bill would declare that it furthers the purposes of the act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab2592"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:57Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 23.",
+      "date": "2026-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:57Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on ELECTIONS.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on ELECTIONS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:57Z"
+      }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to Com. on ELECTIONS. Read second time and amended.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on ELECTIONS.",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on ELECTIONS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:57Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 8. Noes 0.) (April 15).",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:57Z"
+      }
+    },
+    {
+      "description": "Read second time and amended.",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:57Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on APPR.",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:57Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "APPR",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "APPR. suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:57Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 15. Noes 0.) (May 14).",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:57Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:57Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate. (Ayes 78. Noes 0.)",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:57Z"
+      }
+    },
+    {
+      "description": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:57Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on E. & C.A.",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on E. & C.A.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:57Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 5. Noes 0.) (June 16). Re-referred to Com. on APPR.",
+      "date": "2026-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:57Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Pacheco",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pacheco\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB2592",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2592",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/20/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2592&version=20250AB259299INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-20",
+      "classification": ""
+    },
+    {
+      "note": "03/19/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2592&version=20250AB259298AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-19",
+      "classification": ""
+    },
+    {
+      "note": "04/16/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2592&version=20250AB259297AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-16",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "04/13/26- Assembly Elections",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2592&analysisId=395750&analyzingOffice=Assembly+Elections",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-13",
+      "classification": "analysis"
+    },
+    {
+      "note": "05/05/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2592&analysisId=397824&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-05",
+      "classification": "analysis"
+    },
+    {
+      "note": "05/20/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2592&analysisId=399155&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-20",
+      "classification": "analysis"
+    },
+    {
+      "note": "06/12/26- Senate Elections and Constitutional Amendments",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2592&analysisId=399944&analyzingOffice=Senate+Elections+and+Constitutional+Amendments",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-12",
+      "classification": "analysis"
+    },
+    {
+      "note": "06/26/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2592&analysisId=401392&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-26",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2592",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend, repeal, and add Section 8956 and 86103 of, and to add Section 86102.5 to, the Government Code, relating to the Political Reform Act of 1974.",
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:57Z"
+  }
+}

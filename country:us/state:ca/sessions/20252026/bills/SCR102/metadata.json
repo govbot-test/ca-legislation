@@ -1,0 +1,595 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "SCR102",
+  "title": "Relative to California Firefighter Appreciation Month and California Firefighters Memorial Day.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "CaliforniaFirefighterAppreciationMonthandCaliforniaFirefightersMemorialDay"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "This measure would proclaim the month of October 2025 as California Firefighter Appreciation Month and October 4, 2025, as California Firefighters Memorial Day."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-scr102"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. Referred to Com. on RLS.",
+      "date": "2025-08-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "From committee: Ordered to third reading.",
+      "date": "2025-08-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. (Ayes 37. Noes 0. Page 2286.) Ordered to the Assembly.",
+      "date": "2025-08-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "In Assembly. Held at Desk.",
+      "date": "2025-08-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on RLS.",
+      "date": "2025-09-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "From committee: Be adopted. Ordered to consent calendar. (Ayes 6. Noes 0.) (September 3).",
+      "date": "2025-09-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. (Ayes 71. Noes 0. Page 3041.) Ordered to the Senate.",
+      "date": "2025-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "In Senate. Ordered to engrossing and enrolling.",
+      "date": "2025-09-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "Enrolled and filed with the Secretary of State at 1 p.m.",
+      "date": "2025-09-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Res. Chapter 187, Statutes of 2025.",
+      "date": "2025-09-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Caballero",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Caballero\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Allen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alvarado-Gil",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alvarado-Gil\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Archuleta",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Archuleta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ashby",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ashby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cervantes",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cervantes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cortese",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cortese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dahle",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dahle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Durazo",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Durazo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gonzalez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gonzalez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McGuire",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McGuire\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McNerney",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McNerney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Niello",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Niello\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ochoa Bogh",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ochoa Bogh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "P\u00e9rez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"P\\u00e9rez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richardson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rubio",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rubio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seyarto",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seyarto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Strickland",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Strickland\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Valladares",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Valladares\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alanis",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alanis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bennett",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bennett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carrillo",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carrillo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Castillo",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Castillo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Davies",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Davies\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dixon",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dixon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elhawary",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elhawary\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ellis",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ellis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Flora",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Flora\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gallagher",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gallagher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hadwick",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hadwick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jackson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pacheco",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pacheco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Papan",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Papan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Quirk-Silva",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Quirk-Silva\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ransom",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ransom\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michelle Rodriguez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blanca Rubio",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blanca Rubio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Solache",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Solache\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stefani",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stefani\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wicks",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wicks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tangipa",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tangipa\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SCR102",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SCR102",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "08/18/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR102&version=20250SCR10299INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-18",
+      "classification": ""
+    },
+    {
+      "note": "09/10/25 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR102&version=20250SCR10298ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-10",
+      "classification": ""
+    },
+    {
+      "note": "09/18/25 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR102&version=20250SCR10297CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-18",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "08/27/25- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SCR102&analysisId=391595&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-27",
+      "classification": "analysis"
+    },
+    {
+      "note": "09/02/25- Assembly Rules",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SCR102&analysisId=392063&analyzingOffice=Assembly+Rules",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-02",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SCR102",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:55Z"
+  }
+}

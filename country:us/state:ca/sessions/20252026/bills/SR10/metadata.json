@@ -1,0 +1,281 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "SR10",
+  "title": "Relative to Foster Youth Awareness Month.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-sr10"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. Referred to Com. on RLS.",
+      "date": "2025-01-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "From committee: Ordered to third reading.",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. (Ayes 34. Noes 0. Page 1088.)",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wahab",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wahab\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ashby",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ashby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rubio",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rubio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Becker",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Becker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blakespear",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blakespear\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cervantes",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cervantes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cortese",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cortese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Durazo",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Durazo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hurtado",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hurtado\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lim\u00f3n",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lim\\u00f3n\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McNerney",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McNerney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Niello",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Niello\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ochoa Bogh",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ochoa Bogh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richardson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Smallwood-Cuevas",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Smallwood-Cuevas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Valladares",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Valladares\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Weber Pierson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Weber Pierson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wiener",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wiener\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SR10",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SR10",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/09/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SR10&version=20250SR1099INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-01-09",
+      "classification": ""
+    },
+    {
+      "note": "05/16/25 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SR10&version=20250SR1098ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-05-16",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "01/22/25- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SR10&analysisId=382103&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-01-22",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SR10",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:54Z"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "legislative_session": "20252026 Special Session 1",
+  "identifier": "AB10",
+  "title": "State government: emergency services: nonprofit service providers.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Stategovernment",
+    "emergencyservices",
+    "nonprofitserviceproviders"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law, the California Emergency Services Act, authorizes the Governor to declare a state of emergency during conditions of disaster or extreme peril to persons or property. Existing law authorizes the Governor, during a state of emergency, to suspend any regulatory statute, or statute prescribing the procedure for conduct of state business, or the orders, rules, or regulations of any state agency, including provisions relating to eligibility to receive unemployment compensation benefits, if the Governor determines and declares that strict compliance with any statute, order, rule, or regulation would in any way prevent, hinder, or delay the mitigation of the effects of the emergency. Existing law requires each department, division, bureau, board, commission, officer, and employee of this state to render all possible assistance to the Governor and to the Director of Emergency Services in carrying out the act.\n\nThis bill would authorize a nonprofit entity that provides services pursuant to a contract with a state agency, during a state of war emergency or a state of emergency, to request the state agency to allow that nonprofit to modify the method in which it provides those services so long as the purpose of the contract is served. The bill would prohibit the nonprofit entity from exceeding the contract budget unless the nonprofit entity and the state agency enter into an agreement for modification. The bill would require the state agency and the nonprofit entity, if the state agency agrees to that modification, to prepare and sign an addendum to the contract establishing the terms and conditions of the modification. \n\nThe bill would require the nonprofit entity to notify each state agency from which it receives funding of a closure or of an impacted program, including whether a closure is location specific or due to executive order, and why the service level may be impacted. The bill would further require the nonprofit entity to identify and thoroughly document all expenditures associated with the closed program and retain documentation to justify expenses and to support claiming continued state funding, as specified. The bill would require a state agency that receives notification from a nonprofit entity pursuant to these provisions to ensure that funding is available to pay for canceled services, closed programs, or reduced service levels.\n\nThe bill would also permit a nonprofit entity, when a disruption occurs that prohibits that entity from providing services pursuant to a contract but a state of emergency or state of war emergency is not declared, to submit a request to the applicable state agency for flexibility with respect to services and funding pursuant to the contract. The bill would authorize a state agency to approve the written request if it determines that doing so is reasonable under the circumstances described by the nonprofit agency."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026specialsession1-ab10"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "From printer.",
+      "date": "2025-01-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "Died at Desk.",
+      "date": "2025-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Macedo",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Macedo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB10",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520261AB10",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/23/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520261AB10&version=20251AB1099INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-01-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520261AB10",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to add Section 8596.1 to the Government Code, relating to state government.",
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:08Z"
+  }
+}

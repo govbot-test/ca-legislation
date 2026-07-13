@@ -1,0 +1,120 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "ACR201",
+  "title": "Relative to the Joint Legislative Committee on California Representation in the National Statuary Hall.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "TheJointLegislativeCommitteeonCaliforniaRepresentationintheNationalStatuaryHall"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "This measure establishes the Joint Legislative Committee on California Representation in the National Statuary Hall, comprised of 7 Members of the Senate and 7 Members of the Assembly, as specified, to provide a permanent and public forum for legislators to request to the Congress of the United States potential replacements of one or both of California's statues in the National Statuary Hall, until abolished by the Legislature."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-acr201"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To print.",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "From printer.",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lee",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ramos",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ramos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cervantes",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cervantes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "ACR201",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACR201",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/06/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACR201&version=20250ACR20199INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-06",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACR201",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:13Z"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB2097",
+  "title": "Crimes: strangulation.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Crimes",
+    "strangulation"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Under existing law, a person who willfully inflicts corporal injury resulting in a traumatic condition upon specified persons, including, among others, the offender's spouse or former spouse, is guilty of a crime, punishable by imprisonment in the state prison for 2, 3, or 4 years, or in a county jail for not more than one year, or by a fine of up to $6,000.\n\nThis bill would additionally make it a crime for a person to knowingly impede the normal breathing or bloodflow of one of those persons by applying pressure on the throat, neck, or chest of the person, or by obstructing the nose or mouth of the person. The bill would make this crime punishable by imprisonment in the state prison for 2, 3, or 4 years, or in a county jail for not more than one year, or by a fine of up to $6,000. By creating a new crime, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab2097"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 21.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on PUB. S.",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on PUB. S.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "In committee: Set, second hearing. Hearing canceled at the request of author.",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Boerner",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Boerner\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB2097",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2097",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/18/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2097&version=20250AB209799INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2097",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 273.5 of the Penal Code, relating to crimes.",
+    "tags": [
+      "fiscal committee",
+      "local program"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:06Z"
+  }
+}

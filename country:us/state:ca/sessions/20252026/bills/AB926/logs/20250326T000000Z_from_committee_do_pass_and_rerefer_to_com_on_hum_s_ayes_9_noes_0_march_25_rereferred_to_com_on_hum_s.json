@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "From committee: Do pass and re-refer to Com. on HUM. S. (Ayes 9. Noes 0.) (March 25). Re-referred to Com. on HUM. S.",
+    "occurred_at": "2025-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "20252026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on HUM. S.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB926",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB926"
+}

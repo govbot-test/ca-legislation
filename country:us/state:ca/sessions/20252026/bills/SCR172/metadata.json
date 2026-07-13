@@ -1,0 +1,299 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "SCR172",
+  "title": "Relative to Asthma and Allergy Awareness Month.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "AsthmaandAllergyAwarenessMonth"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "This measure would proclaim May 2026 as Asthma and Allergy Awareness Month."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-scr172"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. Referred to Com. on RLS.",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:53Z"
+      }
+    },
+    {
+      "description": "From committee: Ordered to third reading.",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:53Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. (Ayes 33. Noes 0. Page 4410.) Ordered to the Assembly.",
+      "date": "2026-05-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:53Z"
+      }
+    },
+    {
+      "description": "In Assembly. Held at Desk.",
+      "date": "2026-05-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:53Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on RLS.",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:53Z"
+      }
+    },
+    {
+      "description": "From committee: Be adopted. Ordered to consent calendar. (Ayes 8. Noes 0.) (June 1).",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:53Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. Ordered to the Senate.",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:53Z"
+      }
+    },
+    {
+      "description": "In Senate. Ordered to engrossing and enrolling.",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:53Z"
+      }
+    },
+    {
+      "description": "Enrolled and filed with the Secretary of State at 2 p.m.",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:53Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Res. Chapter 89, Statutes of 2026.",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Niello",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Niello\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Menjivar",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Menjivar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ochoa Bogh",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ochoa Bogh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "P\u00e9rez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"P\\u00e9rez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Valladares",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Valladares\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SCR172",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SCR172",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/30/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR172&version=20250SCR17299INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-30",
+      "classification": ""
+    },
+    {
+      "note": "06/05/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR172&version=20250SCR17298ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-05",
+      "classification": ""
+    },
+    {
+      "note": "06/09/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR172&version=20250SCR17297CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-09",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "05/13/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SCR172&analysisId=398329&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-13",
+      "classification": "analysis"
+    },
+    {
+      "note": "05/29/26- Assembly Rules",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SCR172&analysisId=399396&analyzingOffice=Assembly+Rules",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-29",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SCR172",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:53Z"
+  }
+}

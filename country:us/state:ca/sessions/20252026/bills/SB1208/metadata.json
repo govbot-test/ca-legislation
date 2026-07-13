@@ -1,0 +1,493 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "SB1208",
+  "title": "Money laundering: digital financial assets.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill",
+    "appropriation"
+  ],
+  "subject": [
+    "Moneylaundering",
+    "digitalfinancialassets"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law makes it a crime to engage in money laundering, defined as conducting a transaction involving a monetary instrument of specified value through a financial institution with the specific intent to promote or facilitate criminal activity or knowing that the monetary instrument represents the proceeds of or is derived from the proceeds of criminal activity. Existing law establishes the Restitution Fund, a continuously appropriated fund in the State Treasury, to provide funding to compensate victims of crime.\n\nThis bill would expand the crime of money laundering to include conducting a transaction involving a monetary instrument of specified value using digital financial assets, as described. The bill would make other technical, nonsubstantive changes, as provided. By expanding the scope of a crime, this bill would impose a state-mandated local program.\n\nExisting law, the California Control of Profits of Organized Crime Act, establishes a procedure for the forfeiture of property and proceeds acquired through a pattern of criminal profiteering activity, as defined, upon the conviction of the underlying criminal offense, including money laundering, and requires the prosecuting agency to file a petition of forfeiture in conjunction with certain criminal proceedings. Existing law authorizes any person claiming an interest in property or proceeds subject to forfeiture to file with the superior court in which the forfeiture action is pending a verified claim stating their interest in the property or proceeds, as specified. \n\nThis bill would authorize a law enforcement officer or prosecuting agency, as defined, to obtain a search warrant to seize digital financial assets or wallets, accounts, or similar things containing digital financial assets (collectively \"digital financial assets\") upon a showing of probable cause that the digital financial assets contain proceeds of a crime or proceeds traceable to a crime or have been used to facilitate a crime. The bill would require the search warrant to specify any centralized exchanges, addresses, or other locations from which the digital financial assets will be seized, to describe how the warrant will be served, and to specify the amount of digital financial assets to be seized, as specified. The bill would authorize, within 180 days of any seizure, a prosecuting agency to initiate a special proceeding to forfeit the seized digital financial assets, including providing notice to all readily ascertainable potential owners of the digital financial assets and anyone with a known security interest. The bill would require any person with a claim to the seized digital financial assets to file a verified claim under penalty of perjury and supported by admissible evidence within 30 days of the date of service of the notice from the prosecuting agency, as specified. By expanding the crime of perjury, the bill would impose a state-mandated local program. The bill would provide a process for a court to adjudicate and resolve these verified claims, as specified. The bill would require the court, after all the claims are resolved, to issue a final judgment forfeiting the remaining digital financial assets and would provide a process for a prosecuting agency to distribute the remaining digital assets to victims, as specified. The bill would require any digital financial assets not distributed to victims to be kept in the custody of law enforcement or prosecuting agency for a maximum of 3 years, after which the forfeited assets would be deposited into the Restitution Fund for the purpose of providing victim services.\n\nBy expanding the revenue sources of a continuously appropriated fund, and by expanding the purposes for which moneys in a continuously appropriated fund may be used, the bill would make an appropriation.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-sb1208"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "From printer. May be acted upon on or after March 22.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on PUB. S.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on PUB. S.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Set for hearing April 7.",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "April 7 set for first hearing canceled at the request of author.",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Set for hearing April 14.",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on PUB. S.",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on PUB. S.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "April 14 set for second hearing canceled at the request of author.",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Set for hearing April 21.",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 6. Noes 0. Page 3983.) (April 21). Re-referred to Com. on APPR.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Set for hearing May 4.",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "May 4 hearing: Placed on APPR. suspense file.",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Set for hearing May 14.",
+      "date": "2026-05-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 7. Noes 0. Page 4269.) (May 14).",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to second reading.",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. (Ayes 39. Noes 0. Page 4362.) Ordered to the Assembly.",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "In Assembly. Read first time. Held at Desk.",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on PUB. S.",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on PUB. S.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "June 9 set for first hearing canceled at the request of author.",
+      "date": "2026-06-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "June 23 set for second hearing canceled at the request of author.",
+      "date": "2026-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 0.) (June 30).",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Re-referred to Com. on APPR.",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Grayson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Grayson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB1208",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB1208",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/19/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1208&version=20250SB120899INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": ""
+    },
+    {
+      "note": "04/06/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1208&version=20250SB120898AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-06",
+      "classification": ""
+    },
+    {
+      "note": "05/14/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1208&version=20250SB120897AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-14",
+      "classification": ""
+    },
+    {
+      "note": "07/02/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1208&version=20250SB120896AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-02",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "04/19/26- Senate Public Safety",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1208&analysisId=396371&analyzingOffice=Senate+Public+Safety",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-19",
+      "classification": "analysis"
+    },
+    {
+      "note": "05/01/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1208&analysisId=397417&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-01",
+      "classification": "analysis"
+    },
+    {
+      "note": "05/14/26- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1208&analysisId=398391&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-14",
+      "classification": "analysis"
+    },
+    {
+      "note": "05/18/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1208&analysisId=398712&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-18",
+      "classification": "analysis"
+    },
+    {
+      "note": "06/08/26- Assembly Public Safety",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1208&analysisId=399630&analyzingOffice=Assembly+Public+Safety",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-08",
+      "classification": "analysis"
+    },
+    {
+      "note": "06/29/26- Assembly Public Safety",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1208&analysisId=401646&analyzingOffice=Assembly+Public+Safety",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB1208",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 186.10 of, and to add Section 186.13 to, the Penal Code, relating to crimes, and making an appropriation therefor.",
+    "tags": [
+      "fiscal committee",
+      "local program"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:09Z"
+  }
+}

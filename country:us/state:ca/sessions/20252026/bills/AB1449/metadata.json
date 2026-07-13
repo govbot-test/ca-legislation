@@ -1,0 +1,160 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1449",
+  "title": "Children: temporary custody.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children",
+    "temporarycustody"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law authorizes any peace officer to, without a warrant, take into temporary custody a child who is in a hospital if the release of the child to a prospective adoptive parent or a representative of a licensed adoption agency poses an immediate danger to the child's health or safety, except as specified. Existing law requires, in every independent adoption proceeding under these provisions, the prospective adoptive parent or parents to file with the court either an adoption request within 10 working days after execution of an adoption placement agreement, or a guardianship petition within 30 calendar days after the child's discharge from the hospital, whichever is earlier.\n\nThis bill would instead require the prospective adoptive parent or parents in that case to file with the court either an adoption request within 7 working days after execution of an adoption placement agreement, or a guardianship petition within 30 calendar days after the child's discharge from the hospital, whichever is earlier."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1449"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To print.",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 24.",
+      "date": "2025-02-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "Read first time.",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "Referred to Coms. on HUM. S. and JUD.",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on HUM. S. and JUD.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+      "date": "2026-01-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Celeste Rodriguez",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Celeste Rodriguez\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1449",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1449",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/21/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1449&version=20250AB144999INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-21",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1449",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 305.6 of the Welfare and Institutions Code, relating to juveniles.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:13Z"
+  }
+}

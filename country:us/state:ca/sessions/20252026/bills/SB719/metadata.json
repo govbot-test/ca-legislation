@@ -1,0 +1,824 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "SB719",
+  "title": "Access to connected vehicle service.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Accesstoconnectedvehicleservice"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law requires, beginning on January 1, 2028, a vehicle with connected vehicle service to clearly indicate to a person who is inside the vehicle when a person who is outside the vehicle has accessed, among other things, connected vehicle location access. For these purposes, existing law defines \"connected vehicle service\" to mean any capability, including through a software application that is designed to be operated on a mobile device, to remotely obtain data from, or send commands to, a vehicle, and \"connected vehicle location access\" to mean a type of connected vehicle service that allows a person, who is outside of a vehicle, to view or track the location of the vehicle, as specified. If a vehicle includes connected vehicle location access, existing law requires a covered provider, as defined, to provide a mechanism that can be used by a driver who is inside a vehicle to immediately disable connected vehicle location access. Existing law delays the operation of this requirement depending on whether the vehicle was manufactured prior to, or on or after, January 1, 2028. Unless otherwise provided, a violation of the Vehicle Code constitutes an infraction.\n\nThis bill would, instead, limit the provisions above to specified vehicles with connected vehicle access. The bill would apply the requirement for a vehicle with connected vehicle service to indicate to a person inside the vehicle if connected vehicle location access is enabled to all vehicles beginning with the 2031 model year. The bill would make this requirement operative beginning with the 2031 model year, for 2028, 2029, and 2030 model year vehicles, as soon as practicable after the vehicle is sold unless technologically infeasible, and on or before July 1, 2027, for 2027 model year or older vehicles unless technologically infeasible.\n\nBy establishing a new duty on vehicle manufacturers, this bill would expand the general crime applicable to provisions under the Vehicle Code, thereby imposing a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason.\n\nThis bill would declare that it is to take effect immediately as an urgency statute."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Charter schools: audits."
+    },
+    {
+      "note": "",
+      "title": "School accountability: financial and performance audits."
+    },
+    {
+      "note": "",
+      "title": "Department of Technology: inventory: high-risk automated decision systems."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-sb719"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To Com. on RLS. for assignment. To print.",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "From printer. May be acted upon on or after March 24.",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Read first time.",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on RLS.",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Re-referred to Coms. on B. P. & E.D. and ED.",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on B. P. & E.D. and ED.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Set for hearing April 21.",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "April 21 hearing postponed by committee.",
+      "date": "2025-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on B. P. & E.D.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on B. P. & E.D.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Withdrawn from committee.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on RLS.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Re-referred to Coms. on G.O. and JUD.",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on G.O. and JUD.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Set for hearing January 13.",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on G.O.",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on G.O.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Set for hearing January 13 in JUD. pending receipt.",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 14. Noes 0. Page 3213.) (January 13). Re-referred to Com. on JUD.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on JUD.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 13. Noes 0. Page 3214.) (January 13). Re-referred to Com. on APPR.",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Set for hearing January 20.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. (Ayes 39. Noes 0. Page 3281.) Ordered to the Assembly.",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "In Assembly. Read first time. Held at Desk.",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on P. & C.P.",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on P. & C.P.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on P. & C.P.",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on P. & C.P.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 15. Noes 0.) (June 16).",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Re-referred to Com. on APPR.",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Joint Rule 62(a) suspended.",
+      "date": "2026-06-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. Ordered to consent calendar. (Ayes 15. Noes 0.) (June 24).",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to consent calendar.",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "From consent calendar on motion of Assembly Member Aguiar-Curry.",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Ordered to third reading.",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Read third time. Urgency clause adopted. Passed. Ordered to the Senate.",
+      "date": "2026-06-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "In Senate. Concurrence in Assembly amendments pending.",
+      "date": "2026-06-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Unanimous consent granted to take up without reference to file.",
+      "date": "2026-06-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Urgency clause adopted.",
+      "date": "2026-06-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Assembly amendments concurred in. (Ayes 33. Noes 0.) Ordered to engrossing and enrolling.",
+      "date": "2026-06-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 6 p.m.",
+      "date": "2026-06-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 53, Statutes of 2026.",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:10Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Cabaldon",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cabaldon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Weber Pierson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Weber Pierson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB719",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB719",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/21/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB719&version=20250SB71999INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-21",
+      "classification": ""
+    },
+    {
+      "note": "03/25/25 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB719&version=20250SB71998AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-03-25",
+      "classification": ""
+    },
+    {
+      "note": "01/05/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB719&version=20250SB71997AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
+    },
+    {
+      "note": "01/06/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB719&version=20250SB71996AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-06",
+      "classification": ""
+    },
+    {
+      "note": "06/10/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB719&version=20250SB71995AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-10",
+      "classification": ""
+    },
+    {
+      "note": "06/22/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB719&version=20250SB71994AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-22",
+      "classification": ""
+    },
+    {
+      "note": "06/29/26 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB719&version=20250SB71993ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
+    },
+    {
+      "note": "06/30/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB719&version=20250SB71992CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-30",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "01/08/26- Senate Governmental Organization",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB719&analysisId=393754&analyzingOffice=Senate+Governmental+Organization",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-08",
+      "classification": "analysis"
+    },
+    {
+      "note": "01/10/26- Senate Judiciary",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB719&analysisId=393835&analyzingOffice=Senate+Judiciary",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-10",
+      "classification": "analysis"
+    },
+    {
+      "note": "01/21/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB719&analysisId=393985&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-21",
+      "classification": "analysis"
+    },
+    {
+      "note": "06/15/26- Assembly Privacy and Consumer Protection",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB719&analysisId=400101&analyzingOffice=Assembly+Privacy+and+Consumer+Protection",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-15",
+      "classification": "analysis"
+    },
+    {
+      "note": "06/23/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB719&analysisId=400942&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-23",
+      "classification": "analysis"
+    },
+    {
+      "note": "06/26/26- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB719&analysisId=401295&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-26",
+      "classification": "analysis"
+    },
+    {
+      "note": "07/07/26- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB719&analysisId=402072&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-07",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB719",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Sections 28200, 28202, 28206, 28222, 28224, 28226, and 28244 of, and to add Section 28246 to, the Vehicle Code, relating to vehicles, and declaring the urgency thereof, to take effect immediately.",
+    "tags": [
+      "fiscal committee",
+      "local program",
+      "urgency"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:10Z"
+  }
+}

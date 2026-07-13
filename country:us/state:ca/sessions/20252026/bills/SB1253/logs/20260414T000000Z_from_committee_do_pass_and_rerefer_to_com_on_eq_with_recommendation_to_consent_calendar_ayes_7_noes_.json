@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "From committee: Do pass and re-refer to Com. on E.Q. with recommendation: To consent calendar. (Ayes 7. Noes 0. Page 3870.) (April 14). Re-referred to Com. on E.Q.",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "20252026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on E.Q.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB1253",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1253"
+}

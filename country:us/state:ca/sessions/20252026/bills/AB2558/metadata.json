@@ -1,0 +1,157 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB2558",
+  "title": "Financial institutions: loans: interest rates.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Financialinstitutions",
+    "interestrates",
+    "loans"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The California Financing Law (CFL) generally regulates loans made by finance lenders, brokers, and program administrators. The CFL authorizes licensees who make a consumer loan to contract for and receive charges with blended rates based on the amount of the money loaned, up to loans of a bona fide principal amount of less than $2,500. The CFL provides that a willful violation of any of its provisions a crime.\n\nThis bill would instead prohibit a licensee who lends any sum of money less than $2,500 from contracting for or receiving charges at a rate exceeding an annual percentage rate set forth in, and calculated by, specified federal laws and regulations as in effect on January 1, 2026. By expanding a crime, this bill would impose a state-mandated local program.\n\nThe California Deferred Deposit Transaction Law (CDDTL) generally regulates deferred deposit transactions. The CDDTL prohibits the fee for a deferred deposit transaction from exceeding 15% of the face amount of the check. The CDDTL provides that a willful violation of any of its provisions is crime.\n\nThis bill would instead prohibit the total amount charged to a customer for a deferred deposit transaction from exceeding the annual percentage rate set forth in, and calculated by, specified federal laws and regulations as in effect on January 1, 2026. By expanding a crime, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab2558"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:15Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 23.",
+      "date": "2026-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:15Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on B. & F.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on B. & F.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:15Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Berman",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Berman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aguiar-Curry",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Aguiar-Curry\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB2558",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2558",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/20/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2558&version=20250AB255899INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-20",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "04/22/26- Assembly Banking and Finance",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2558&analysisId=396891&analyzingOffice=Assembly+Banking+and+Finance",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-22",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2558",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Sections 22303 and 23036 of the Financial Code, relating to financial institutions.",
+    "tags": [
+      "fiscal committee",
+      "local program"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:15Z"
+  }
+}

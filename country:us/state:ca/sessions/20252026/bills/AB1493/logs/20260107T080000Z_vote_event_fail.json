@@ -1,0 +1,92 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass and be re-referred to the Committee on [Elections]",
+  "motion_classification": [],
+  "start_date": "2026-01-07T08:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "20252026",
+  "bill": "c6a31050-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "AB1493",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Wilson",
+      "voter_id": "~{\"name\": \"Wilson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lowenthal",
+      "voter_id": "~{\"name\": \"Lowenthal\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Castillo",
+      "voter_id": "~{\"name\": \"Castillo\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hoover",
+      "voter_id": "~{\"name\": \"Hoover\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Ortega",
+      "voter_id": "~{\"name\": \"Ortega\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Bonta",
+      "voter_id": "~{\"name\": \"Bonta\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Garcia",
+      "voter_id": "~{\"name\": \"Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Patel",
+      "voter_id": "~{\"name\": \"Patel\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Muratsuchi",
+      "voter_id": "~{\"name\": \"Muratsuchi\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 2
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 5
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1493",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1493#2"
+}

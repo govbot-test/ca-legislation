@@ -1,0 +1,330 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1570",
+  "title": "Health care coverage: diagnostic imaging.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Healthcarecoverage",
+    "diagnosticimaging"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law, the Knox-Keene Health Care Service Plan Act of 1975, provides for the licensure and regulation of health care service plans by the Department of Managed Health Care, and makes a willful violation of the act a crime. Existing law provides for the regulation of health insurers by the Department of Insurance. Existing law requires a health care service plan contract issued, amended, delivered, or renewed on or after January 1, 2000, or an individual or group policy of disability insurance or self-insured employee welfare benefit plan to provide coverage for mammography for screening or diagnostic purposes upon referral by specified professionals. Under existing law, mammography performed pursuant to those requirements or that meets the current recommendations of the United States Preventive Services Task Force is provided to an enrollee or an insured without cost sharing.\n\nThis bill would require a health care service plan contract, a health insurance policy, or a self-insured employee welfare benefit plan issued, amended, or renewed on or after January 1, 2028, to provide coverage without imposing cost sharing for, among other things, screening mammography and medically necessary diagnostic breast imaging, including diagnostic breast imaging following an abnormal mammography result and for an enrollee or insured indicated to have a risk factor associated with breast cancer, except as specified.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1570"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee February 12.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on HEALTH.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HEALTH.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 16. Noes 0.) (April 7).",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "Read second time and amended.",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on APPR.",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "APPR",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "APPR. suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "Coauthors revised.",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "In committee: Held under submission.",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wilson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Caloza",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Caloza\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Connolly",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Connolly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Davies",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Davies\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Haney",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Haney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ortega",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pacheco",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pacheco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pellerin",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pellerin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Quirk-Silva",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Quirk-Silva\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michelle Rodriguez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aguiar-Curry",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Aguiar-Curry\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1570",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1570",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/12/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1570&version=20250AB157099INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-12",
+      "classification": ""
+    },
+    {
+      "note": "04/09/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1570&version=20250AB157098AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-09",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "04/03/26- Assembly Health",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1570&analysisId=394852&analyzingOffice=Assembly+Health",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-03",
+      "classification": "analysis"
+    },
+    {
+      "note": "04/20/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1570&analysisId=396565&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-20",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1570",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 1367.65 of the Health and Safety Code, and to amend Section 10123.81 of the Insurance Code, relating to health care coverage.",
+    "tags": [
+      "fiscal committee",
+      "local program"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:06Z"
+  }
+}

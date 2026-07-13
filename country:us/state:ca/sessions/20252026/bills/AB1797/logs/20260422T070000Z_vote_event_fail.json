@@ -1,0 +1,92 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass and be re-referred to the Committee on [Appropriations]",
+  "motion_classification": [],
+  "start_date": "2026-04-22T07:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "20252026",
+  "bill": "cec6db2c-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "AB1797",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Castillo",
+      "voter_id": "~{\"name\": \"Castillo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hoover",
+      "voter_id": "~{\"name\": \"Hoover\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bonta",
+      "voter_id": "~{\"name\": \"Bonta\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Zbur",
+      "voter_id": "~{\"name\": \"Zbur\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Garcia",
+      "voter_id": "~{\"name\": \"Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lowenthal",
+      "voter_id": "~{\"name\": \"Lowenthal\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Pellerin",
+      "voter_id": "~{\"name\": \"Pellerin\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Patel",
+      "voter_id": "~{\"name\": \"Patel\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Alvarez",
+      "voter_id": "~{\"name\": \"Alvarez\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 2
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1797",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1797#0"
+}

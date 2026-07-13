@@ -1,0 +1,262 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB2240",
+  "title": "Medi-Cal: private duty nursing.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Medi-Cal",
+    "privatedutynursing"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law, the Medi-Cal Act, establishes the Medi-Cal program, which is administered by the State Department of Health Care Services and under which qualified low-income individuals receive health care services. Under existing law, early and periodic screening, diagnostic, and treatment (EPSDT) services, including private duty nursing services, are covered under Medi-Cal for an individual under 21 years of age in accordance with certain federal provisions. The Medi-Cal program is in part governed by, and funded pursuant to, federal Medicaid program provisions.\n\nThis bill would require the department to measure and assess whether private duty nursing services provided as part of the EPSDT benefit are in compliance with federal Medicaid requirements, as specified. The bill would require the assessment to include a comparison of the hours of EPSDT private duty nursing services authorized by the Medi-Cal program to the hours actually provided to eligible beneficiary children and a determination of whether the reimbursement rates for those services are sufficient to ensure that all authorized hours are able to be provided. The bill would require the department to prepare and submit a report to the Legislature on the findings of the assessment by no later than March 1, 2027."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Medi-Cal: private duty nursing: specialty care."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab2240"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 22.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on HEALTH.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HEALTH.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "In committee: Hearing postponed by committee.",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to Com. on HEALTH. Read second time and amended.",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on HEALTH.",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HEALTH.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 16. Noes 0.) (April 21). Re-referred to Com. on APPR.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "APPR",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "APPR. suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "In committee: Held under submission.",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Stefani",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Stefani\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB2240",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2240",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/19/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2240&version=20250AB224099INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": ""
+    },
+    {
+      "note": "04/16/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2240&version=20250AB224098AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-16",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "04/18/26- Assembly Health",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2240&analysisId=396286&analyzingOffice=Assembly+Health",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-18",
+      "classification": "analysis"
+    },
+    {
+      "note": "05/05/26- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB2240&analysisId=397696&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-05",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2240",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to add Section 14149.96 to the Welfare and Institutions Code, relating to Medi-Cal.",
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:59Z"
+  }
+}

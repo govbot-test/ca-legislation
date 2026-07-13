@@ -1,0 +1,152 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB2226",
+  "title": "Reusable grocery bags.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Reusablegrocerybags"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law prohibits a store, as defined, from providing a precheckout bag, as defined, to a customer unless the precheckout bag is a compostable bag that meets certain criteria or a recycled paper bag. Existing law defines a \"precheckout bag\" for this purpose to mean a bag provided to a customer before the customer reaches the point of sale, that is designed to protect a purchased item from damaging or contaminating other purchased items in a checkout bag, or to contain an unwrapped food item.\n\nThis bill would repeal those provisions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab2226"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 22.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on NAT. RES.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on NAT. RES.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    },
+    {
+      "description": "In committee: Hearing postponed by committee.",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    },
+    {
+      "description": "In committee: Hearing postponed by committee.",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    },
+    {
+      "description": "In committee: Hearing postponed by committee.",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Blanca Rubio",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Blanca Rubio\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB2226",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2226",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/19/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2226&version=20250AB222699INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-19",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2226",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to repeal Article 2 (commencing with Section 42281.2) of Chapter 5.3 of Part 3 of Division 30 of the Public Resources Code, relating to recycling.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:58Z"
+  }
+}

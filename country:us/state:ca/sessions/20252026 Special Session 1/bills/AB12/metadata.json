@@ -1,0 +1,128 @@
+{
+  "legislative_session": "20252026 Special Session 1",
+  "identifier": "AB12",
+  "title": "Crimes: looting.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Crimes",
+    "looting"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law defines the crime of burglary, which consists of entering specified buildings, places, or vehicles with the intent to commit grand or petty theft or a felony. Existing law defines burglary of the first degree as any burglary of an inhabited building and makes burglary of the first degree punishable by imprisonment in the state prison for 2, 4, or 6 years. Existing law defines all other burglary as burglary of the 2nd degree and makes it punishable by imprisonment in the county jail for one year or as a felony. Existing law makes the theft of money, labor, or property petty theft punishable as a misdemeanor, whenever the value of the property taken does not exceed $950. Under existing law, if the value of the property taken exceeds $950, the theft is grand theft, punishable as a misdemeanor or a felony. \n\nExisting law defines any 2nd-degree burglary or grand theft, during and within an affected county in a state of emergency or local emergency, as specified, as looting, punishable by either imprisonment in a county jail for one year or as a felony. Existing law makes petty theft committed during and within an affected county in a state of emergency or local emergency a misdemeanor and requires a minimum jail term of 90 days.\n\nExisting law prohibits credibly impersonating a peace officer, firefighter, or employee of a state or local government agency, or a search and rescue team, as specified. A violation of these prohibitions is punishable as a misdemeanor.\n\nThis bill would make looting by the means of a 2nd-degree burglary or grand theft punishable instead as a felony. The bill would define a petty theft committed during and within an affected county in a state of emergency or local emergency as looting and make it punishable by imprisonment in the county jail for one year or as a felony. The bill would require any person who in the course of committing or attempting to commit the crime of looting impersonated a peace officer, firefighter, or employee of a state or local government agency, or a search and rescue team, subject to a penalty enhancement. By increasing the punishment of a crime, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026specialsession1-ab12"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2025-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    },
+    {
+      "description": "From printer.",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    },
+    {
+      "description": "Died at Desk.",
+      "date": "2025-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hoover",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hoover\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hadwick",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hadwick\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB12",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520261AB12",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/28/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520261AB12&version=20251AB1299INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-01-28",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520261AB12",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 463 of the Penal Code, relating to crimes.",
+    "tags": [
+      "fiscal committee",
+      "local program"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:58Z"
+  }
+}

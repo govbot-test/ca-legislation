@@ -1,0 +1,106 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "ACA6",
+  "title": "A resolution to propose to the people of the State of California an amendment to the Constitution of the State, by amending Section 6 of Article I thereof, relating to slavery.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "constitutional amendment"
+  ],
+  "subject": [
+    "Slavery"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The California Constitution prohibits slavery and prohibits involuntary servitude, except as punishment for a crime.\n\nThis measure would instead prohibit slavery in all forms. This measure would clarify that its provisions do not prohibit the Department of Corrections and Rehabilitation from awarding credits to an incarcerated person who voluntarily accepts a work assignment."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-aca6"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To print.",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 9.",
+      "date": "2025-02-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Wilson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wilson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "ACA6",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACA6",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/06/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACA6&version=20250ACA699INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-06",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACA6",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:08Z"
+  }
+}

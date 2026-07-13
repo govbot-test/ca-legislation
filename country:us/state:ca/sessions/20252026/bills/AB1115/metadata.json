@@ -1,0 +1,148 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1115",
+  "title": "Peace officers: mental health liaisons.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Peaceofficers",
+    "mentalhealthliaisons"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The California Constitution authorizes local governments to make and enforce all police and sanitary ordinances and regulations within its limits that are not in conflict with general laws. Existing law requires the board of supervisors of a county and the governing body of a city to take measures necessary to preserve and protect the public health in its jurisdiction.\n\nThis bill would authorize a local government to designate one or more existing employees specializing in counseling or mental health services as a law enforcement mental health liaison to facilitate mental health support for peace officers who serve the local jurisdiction.\n\nThe bill would make related findings and declarations."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1115"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:04Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 23.",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:04Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on PUB. S.",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on PUB. S.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:04Z"
+      }
+    },
+    {
+      "description": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+      "date": "2026-01-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:04Z"
+      }
+    },
+    {
+      "description": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Castillo",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Castillo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1115",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1115",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/20/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1115&version=20250AB111599INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-20",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1115",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to add Section 13543 to the Penal Code, relating to peace officers.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:04Z"
+  }
+}

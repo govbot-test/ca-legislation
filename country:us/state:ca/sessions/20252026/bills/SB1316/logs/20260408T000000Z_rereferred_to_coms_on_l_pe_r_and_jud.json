@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Re-referred to Coms. on L., P.E. & R. and JUD.",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "20252026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Coms. on L., P.E. & R. and JUD.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB1316",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1316"
+}

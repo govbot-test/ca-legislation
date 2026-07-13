@@ -1,0 +1,164 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1124",
+  "title": "Personal Income Tax Law: exclusions: first responders: overtime pay.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "PersonalIncomeTaxLaw",
+    "exclusions",
+    "firstresponders",
+    "overtimepay"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The Personal Income Tax Law, in modified conformity with federal law, generally defines \"gross income\" as income from whatever source derived, except as specifically excluded, and provides various exclusions from gross income for purposes of computing tax liability. \n\nThis bill would, for taxable years beginning on or after January 1, 2025, and before January 1, 2030, exclude from the gross income of a qualified taxpayer, as defined, for qualified overtime wages, defined to mean overtime wages paid to a qualified taxpayer in relation to work performed directly in response to, or in support of, emergency operations, as specified.\n\nExisting law requires a bill authorizing a new tax expenditure to contain, among other things, specific goals the tax expenditure will achieve, detailed performance indicators, and data collection requirements.\n\nThis bill would include additional information required for any bill authorizing a new tax expenditure. \n\nThis bill would take effect immediately as a tax levy."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1124"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 23.",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on REV. & TAX.",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on REV. & TAX.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    },
+    {
+      "description": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+      "date": "2026-01-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    },
+    {
+      "description": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bains",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bains\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1124",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1124",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/20/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1124&version=20250AB112499INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-20",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1124",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to add and repeal Section 17140.6 of the Revenue and Taxation Code, relating to taxation, to take effect immediately, tax levy.",
+    "tags": [
+      "fiscal committee",
+      "urgency",
+      "tax levy"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:05Z"
+  }
+}

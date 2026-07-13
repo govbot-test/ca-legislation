@@ -1,0 +1,182 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "ACR207",
+  "title": "Relative to California Hindu American Awareness and Appreciation Month.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "CaliforniaHinduAmericanAwarenessandAppreciationMonth"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "This measure would designate the month of October 2026 as California Hindu American Awareness and Appreciation Month. The measure would also recognize and acknowledge the significant contributions made by Californians of Hindu heritage to the state and seek to increase awareness and understanding of the Hindu American community, and would condemn all hate crimes and bias incidents against Hindu Americans, Hindu temples and centers, and places of significance to the Hindu American community."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-acr207"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To print.",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "From printer.",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on RLS.",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "From committee: Be adopted. To Consent Calendar. (Ayes 8. Noes 0.) (June 29).",
+      "date": "2026-06-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Adopted and to Senate. (Ayes 70. Noes 0.)",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "In Senate. To Com. on RLS.",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kalra",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kalra\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patel",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patel\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "ACR207",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACR207",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/18/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACR207&version=20250ACR20799INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-18",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "06/26/26- Assembly Rules",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260ACR207&analysisId=401471&analyzingOffice=Assembly+Rules",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-26",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACR207",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:00Z"
+  }
+}

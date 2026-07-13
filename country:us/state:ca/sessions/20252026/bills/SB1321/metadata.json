@@ -1,0 +1,238 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "SB1321",
+  "title": "Public postsecondary education: remedial classes and supports: audit.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Publicpostsecondaryeducation",
+    "audit",
+    "remedialclassesandsupports"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law requires the California Postsecondary Education Commission, on or before November 15 of each year, to submit a higher education report to the Legislature and the Governor that provides information to the citizens of the state on the significant indicators of performance of the public colleges and universities, as specified. Existing law requires the commission to consider including, for community colleges, the proportion of remedial or developmental education courses taught by full-time faculty. The Budget Act of 2011 deleted funding and personnel from the California Postsecondary Education Commission.\n\nThis bill would require the California State Auditor, on or before September 1, 2027, to report to the chairs of certain legislative committees the results of an audit of the California State University and the University of California regarding the use of remedial instruction and supports, as specified."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "California Postsecondary Education Commission: annual report."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-sb1321"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To Com. on RLS. for assignment. To print.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "From printer. May be acted upon on or after March 23.",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "Read first time.",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on RLS.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on ED.",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on ED.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "Set for hearing April 22.",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "April 22 set for first hearing. Failed passage in committee. (Ayes 2. Noes 1. Page 4007.) Reconsideration granted.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-failure",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Niello",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Niello\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ochoa Bogh",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ochoa Bogh\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB1321",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB1321",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/20/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1321&version=20250SB132199INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-20",
+      "classification": ""
+    },
+    {
+      "note": "03/23/26 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1321&version=20250SB132198AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-23",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "04/20/26- Senate Education",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1321&analysisId=396532&analyzingOffice=Senate+Education",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-20",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB1321",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to add Section 99183 to the Education Code, relating to public postsecondary education.",
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:06Z"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB504",
+  "title": "Worker classification: employees and independent contractors: licensed manicurists.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Workerclassification",
+    "employeesandindependentcontractors",
+    "licensedmanicurists"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law requires a 3-part test, commonly known as the \"ABC\" test, to determine if workers are employees or independent contractors for purposes of the Labor Code, the Unemployment Insurance Code, and the wage orders of the Industrial Welfare Commission. Under the ABC test, a person providing labor or services for remuneration is considered an employee rather than an independent contractor unless the hiring entity demonstrates that the person is free from the control and direction of the hiring entity in connection with the performance of the work, the person performs work that is outside the usual course of the hiring entity's business, and the person is customarily engaged in an independently established trade, occupation, or business. Existing law charges the Labor Commissioner with the enforcement of labor laws, including worker classification.\n\nExisting law exempts specified occupations and business relationships from the application of the ABC test described above. Existing law, instead, provides that these exempt relationships are governed by the multifactor test previously adopted in the case of S. G. Borello & Sons, Inc. v. Department of Industrial Relations (1989) 48 Cal.3d 341. These exemptions include services provided by a licensed manicurist, subject to the manicurist meeting specified conditions. Existing law makes this exemption for licensed manicurists inoperative on January 1, 2025. \n\nThis bill would delete the January 1, 2025, inoperative date, thereby making licensed manicurists subject to this exemption indefinitely."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab504"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2025-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 13.",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on L. & E.",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on L. & E.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+      "date": "2026-01-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    },
+    {
+      "description": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:06Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ta",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Macedo",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Macedo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB504",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB504",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/10/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB504&version=20250AB50499INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-10",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB504",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 2778 of the Labor Code, relating to employment.",
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:06Z"
+  }
+}

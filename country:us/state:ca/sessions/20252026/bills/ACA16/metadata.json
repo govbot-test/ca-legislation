@@ -1,0 +1,157 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "ACA16",
+  "title": "A resolution to propose to the people of the State of California an amendment to the Constitution of the State, by amending Section 12 of Article IV thereof, and adding Section 8.5 to Article V thereof, relating to the state budget.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "constitutional amendment"
+  ],
+  "subject": [
+    "Budgetbill",
+    "MembersoftheLegislature",
+    "balancedbudget",
+    "salaries"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The California Constitution includes a balanced budget provision that prohibits the Legislature from sending a budget bill to the Governor, and prohibits the Governor from signing a budget bill, if the total amount of General Fund appropriations and reserve deposits for the fiscal year exceed General Fund revenues for the fiscal year estimated as of the date of the budget bill's passage. The Constitution requires the Legislature to include that revenue estimate in the budget bill.\n\nThe Constitution also requires the Legislature to pass a budget bill by midnight on June 15 of each year. If that deadline is not met, the Members of the Legislature forfeit any salary or reimbursement for travel or living expenses from midnight on June 15 until the day that the budget bill is presented to the Governor.\n\nThis measure would authorize the Controller, no later than 30 days after the date of the budget bill's passage, to determine that the budget bill violates the balanced budget provision. If the Controller makes that determination, the Members of the Legislature and the Governor would forfeit their salary and reimbursement for travel or living expenses from the day immediately following the date on which the Controller makes the determination until the date on which a budget bill is enacted."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-aca16"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To print.",
+      "date": "2026-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee February 7.",
+      "date": "2026-01-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ellis",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ellis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Castillo",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Castillo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dixon",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dixon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gallagher",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gallagher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Macedo",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Macedo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sanchez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sanchez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tangipa",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tangipa\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "ACA16",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACA16",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/07/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACA16&version=20250ACA1699INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-07",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACA16",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:01Z"
+  }
+}

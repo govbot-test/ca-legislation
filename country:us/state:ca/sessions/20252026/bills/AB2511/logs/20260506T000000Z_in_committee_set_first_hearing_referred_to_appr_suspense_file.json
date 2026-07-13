@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+    "occurred_at": "2026-05-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "20252026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "APPR",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "APPR. suspense file.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2511",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB2511"
+}

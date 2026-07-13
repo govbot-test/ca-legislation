@@ -1,0 +1,598 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "HR43",
+  "title": "Relative to Lesbian, Gay, Bisexual, Transgender, and Queer (LGBTQ+) Pride Month.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-hr43"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced.",
+      "date": "2025-05-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on RLS.",
+      "date": "2025-05-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    },
+    {
+      "description": "From committee: Be adopted. Ordered to Third Reading. (Ayes 7. Noes 0.) (June 16).",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable",
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    },
+    {
+      "description": "Coauthors revised.",
+      "date": "2025-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. (Page 2244.).",
+      "date": "2025-06-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ward",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ward\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elhawary",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elhawary\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Gonz\u00e1lez",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Gonz\\u00e1lez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jackson",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lee",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Solache",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Solache\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zbur",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zbur\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aguiar-Curry",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Aguiar-Curry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ahrens",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ahrens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alvarez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alvarez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "\u00c1vila Far\u00edas",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"\\u00c1vila Far\\u00edas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bennett",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bennett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Berman",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Berman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Boerner",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Boerner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonta",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bryan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Calderon",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Calderon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Caloza",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Caloza\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carrillo",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carrillo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Connolly",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Connolly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fong",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Fong\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gabriel",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gabriel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garcia",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Garcia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gipson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gipson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Haney",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Haney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harabedian",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harabedian\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hart",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Irwin",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Irwin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kalra",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kalra\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Krell",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Krell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lowenthal",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lowenthal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McKinnor",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McKinnor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Muratsuchi",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Muratsuchi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nguyen",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nguyen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ortega",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ortega\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pacheco",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pacheco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Papan",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Papan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patel",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pellerin",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pellerin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Petrie-Norris",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Petrie-Norris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Quirk-Silva",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Quirk-Silva\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ramos",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ramos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ransom",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ransom\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rivas",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rivas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Celeste Rodriguez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Celeste Rodriguez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michelle Rodriguez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rogers",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rogers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blanca Rubio",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blanca Rubio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schiavo",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Schiavo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schultz",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Schultz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sharp-Collins",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sharp-Collins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Soria",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Soria\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stefani",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stefani\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Valencia",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Valencia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wicks",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wicks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wilson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HR43",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260HR43",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/22/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260HR43&version=20250HR4399INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-05-22",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "06/13/25- Assembly Rules",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260HR43&analysisId=388308&analyzingOffice=Assembly+Rules",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-06-13",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260HR43",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:58Z"
+  }
+}

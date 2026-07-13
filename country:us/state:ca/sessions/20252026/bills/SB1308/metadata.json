@@ -1,0 +1,173 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "SB1308",
+  "title": "Legislature: constitutional course.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Legislature",
+    "constitutionalcourse"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law provides for the administration of the constitutional oath of office and seating of Members of the Legislature at the beginning of any regular session of the Legislature. Existing law requires each Member of the Legislature and each designated employee of the Legislature to attend certain orientation courses conducted by the appropriate legislative ethics committees at least once in each biennial session.\n\nThis bill would require Members and designated employees of the Legislature to attend an orientation course regarding the United States Constitution and the California Constitution, as specified. The bill would require the Legislative Counsel Bureau, in consultation with the Joint Rules Committee, to develop and conduct the course, as specified. The bill would authorize Members and designated employees of the legislature to opt out of the course if they are able to demonstrate proficient knowledge of specified topics or if they are licensed to practice law in California."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-sb1308"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To Com. on RLS. for assignment. To print.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "From printer. May be acted upon on or after March 23.",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "Read first time.",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on JUD.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on JUD.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "Set for hearing April 21.",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "April 21 set for first hearing. Failed passage in committee. (Ayes 5. Noes 2. Page 3979.) Reconsideration granted.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-failure",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ochoa Bogh",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ochoa Bogh\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB1308",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB1308",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/20/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB1308&version=20250SB130899INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-20",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "04/18/26- Senate Judiciary",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB1308&analysisId=396301&analyzingOffice=Senate+Judiciary",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-18",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB1308",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to add Section 9025.5 to the Government Code, relating to the Legislature.",
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:13Z"
+  }
+}

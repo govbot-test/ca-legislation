@@ -1,0 +1,147 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1797",
+  "title": "Pupil instruction: Open Enrollment Act.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "OpenEnrollmentAct",
+    "Pupilinstruction"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The Open Enrollment Act authorizes the parent of a pupil enrolled in a low-achieving school to submit an application for the pupil to attend a school in a school district other than the school district in which the parent resides, as specified. The act defines \"low-achieving school\" to mean a school on a list created annually by the Superintendent of Public Instruction of 1,000 schools ranked by increasing Academic Performance Index score with the same ratio of elementary, middle, and high schools as existed in decile 1 in the 2008\u201309 school year.\n\nThis bill would recast and revise the act. The bill would delete the definition of, and references to, the term \"low-achieving school\" in the act. The bill would instead generally revise the terminology of the act to specify that the parent of a pupil enrolled in a school district of residence, as defined, is authorized to submit an application for the pupil to attend a school district of enrollment, as defined. The bill would also delete from the act obsolete references to the Academic Performance Index and to the federal Race to the Top Fund."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1797"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 13.",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on ED.",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on ED.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Failed passage.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1797",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1797",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/10/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1797&version=20250AB179799INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-10",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "04/20/26- Assembly Education",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1797&analysisId=396541&analyzingOffice=Assembly+Education",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-20",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1797",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Sections 48352, 48354, and 48356 of, and to repeal Sections 48351, 48353, and 48360 of, the Education Code, relating to pupil instruction.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:02Z"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1185",
+  "title": "California Library Services, Equity in Opportunity Act.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CaliforniaLibraryServices,EquityinOpportunityAct"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law, the California Library Services Act, states the intent of the Legislature to provide all residents with the opportunity to obtain from their public libraries needed materials and informational services by facilitating access to the resources of all libraries in this state. The act establishes the California Library Services Board consisting of 13 members, appointed as provided, with the State Librarian as the chief executive officer of the state board. Under the act, the powers and duties of the state board include, among other things, the adoption of rules, regulations, and general policies for the implementation of the act, as provided.\n\nThis bill would rename the California Library Services Act as the California Library Services, Equity in Opportunity Act, and would revise and recast the act to, among other things, state the intent of the Legislature to create access to opportunity for all Californians at public libraries, as provided. The bill would rename the California Library Services Board as the California Library Services, Equity in Opportunity Board and would reduce the size of the board to 11 members, appointed as provided. The bill would prescribe the duties of the state board to instead be to, among other things, advise the State Librarian on the adoption of rules, regulations, and general policies for the implementation of the act, as provided. The bill would require the State Librarian to ensure staff support for the state board."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1185"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To print.",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 24.",
+      "date": "2025-02-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    },
+    {
+      "description": "Read first time.",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on ED.",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on ED.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    },
+    {
+      "description": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+      "date": "2026-01-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    },
+    {
+      "description": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hart",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hart\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1185",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1185",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/21/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1185&version=20250AB118599INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-21",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1185",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Sections 18700, 18710, 18720, 18722, 18724, and 18726 of, and to repeal and add Sections 18701, 18702, and 18703 of, the Education Code, relating to libraries.",
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:01Z"
+  }
+}

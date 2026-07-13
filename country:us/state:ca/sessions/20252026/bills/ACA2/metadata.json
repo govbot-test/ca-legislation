@@ -1,0 +1,107 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "ACA2",
+  "title": "A resolution to propose to the people of the State of California an amendment to the Constitution of the State, by repealing and adding Section 4.5 of Article IV thereof, relating to the Legislature.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "constitutional amendment"
+  ],
+  "subject": [
+    "Legislature",
+    "retirement"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The California Constitution prohibits Members of the Legislature from accruing any pension or retirement benefit other than participation in the federal Social Security program as a result of legislative service.\n\nThis measure, the Legislative Diversification Act, would repeal that prohibition and instead require the Legislature to establish a retirement system for Members elected to or serving in the Legislature on or after November 1, 2010. The measure would require a Member to serve at least 10 years in the Legislature to be eligible to receive benefits under the retirement system. The measure would authorize a Member who serves fewer than 10 years to transfer the service credit earned as a result of service in the Legislature to any other public employees' pension or retirement system in which the Member participates."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-aca2"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To print.",
+      "date": "2024-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee January 2.",
+      "date": "2024-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jackson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jackson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "ACA2",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACA2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "12/02/24 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACA2&version=20250ACA299INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2024-12-02",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACA2",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:02Z"
+  }
+}

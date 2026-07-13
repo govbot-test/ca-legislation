@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Read second time. Ordered to third reading.",
+    "occurred_at": "2025-09-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "20252026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1",
+      "reading-2",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB221",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB221"
+}

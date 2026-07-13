@@ -1,0 +1,146 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB2105",
+  "title": "Elections: vote by mail ballots.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections",
+    "votebymailballots"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law provides that ballots cast in all-mailed ballot elections are considered timely cast if they are received by the voter's elections official no later than 7 days after election day if specified conditions are satisfied, including that the ballot is postmarked on or before election day.\n\nThis bill would require the Secretary of State to identify geographic areas where a vote by mail ballot deposited with the United States Postal Service on election day may not receive a postmark until the following day because of mail collection and processing practices in that region, as specified. The bill would require that the Secretary publish the list of identified geographic areas on its internet website and provide it to local elections officials, as specified. The bill would require a local elections official to include a notice in a vote by mail ballot mailed to a voter whose residence is in an identified area. By imposing new duties on local elections officials, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to the statutory provisions noted above."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab2105"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:11Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 21.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:11Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on ELECTIONS.",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on ELECTIONS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:11Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:11Z"
+      }
+    },
+    {
+      "description": "In committee: Set, second hearing. Hearing canceled at the request of author.",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:11Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Macedo",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Macedo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB2105",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2105",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/18/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2105&version=20250AB210599INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2105",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to add Section 3019.8 to the Elections Code, relating to elections.",
+    "tags": [
+      "fiscal committee",
+      "local program"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:11Z"
+  }
+}

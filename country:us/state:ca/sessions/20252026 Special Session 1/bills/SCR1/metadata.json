@@ -1,0 +1,165 @@
+{
+  "legislative_session": "20252026 Special Session 1",
+  "identifier": "SCR1",
+  "title": "Relative to the Joint Rules for the 2025\u201326 First Extraordinary Session.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "2025\u201326FirstExtraordinarySession",
+    "JointRules"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "This measure adopts the Joint Rules of the Senate and Assembly for the 2025\u201326 Regular Session, as set forth in Senate Concurrent Resolution No. 1, as the Joint Rules for the 2025\u201326 First Extraordinary Session, except as specified."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026specialsession1-scr1"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced.",
+      "date": "2024-12-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    },
+    {
+      "description": "Held at desk.",
+      "date": "2024-12-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    },
+    {
+      "description": "Read. Adopted. (Ayes 29. Noes 9. Page 5.) Ordered to the Assembly.",
+      "date": "2024-12-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    },
+    {
+      "description": "In Assembly. Held at Desk.",
+      "date": "2024-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    },
+    {
+      "description": "Died at Desk.",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    },
+    {
+      "description": "From Assembly without further action.",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:05Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gonzalez",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gonzalez\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SCR1",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520261SCR1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "12/02/24 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520261SCR1&version=20251SCR199INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2024-12-02",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "12/02/24- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520261SCR1&analysisId=382051&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2024-12-02",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520261SCR1",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:05Z"
+  }
+}

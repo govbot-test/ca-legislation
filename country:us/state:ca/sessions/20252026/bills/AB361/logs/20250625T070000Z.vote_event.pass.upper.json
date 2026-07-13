@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass",
+  "motion_classification": [],
+  "start_date": "2025-06-25T07:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "20252026",
+  "bill": "eaa241c4-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "AB361",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Laird",
+      "voter_id": "~{\"name\": \"Laird\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gonzalez",
+      "voter_id": "~{\"name\": \"Gonzalez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cabaldon",
+      "voter_id": "~{\"name\": \"Cabaldon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cortese",
+      "voter_id": "~{\"name\": \"Cortese\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "P\u00e9rez",
+      "voter_id": "~{\"name\": \"P\\u00e9rez\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Choi",
+      "voter_id": "~{\"name\": \"Choi\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ochoa Bogh",
+      "voter_id": "~{\"name\": \"Ochoa Bogh\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB361",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB361#3"
+}

@@ -1,0 +1,630 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1032",
+  "title": "Coverage for behavioral health visits.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Coverageforbehavioralhealthvisits"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law, the Knox-Keene Health Care Service Plan Act of 1975, provides for the licensure and regulation of health care service plans by the Department of Managed Health Care, and makes a willful violation of the act a crime. Existing law provides for the regulation of health insurers by the Department of Insurance. Existing law requires a health care service plan contract or health insurance policy issued, amended, or renewed on or after January 1, 2021, to provide coverage for medically necessary treatment of mental health and substance use disorders, as defined, under the same terms and conditions applied to other medical conditions.\n\nThis bill would generally require a large group health care service plan contract or health insurance policy issued, amended, or renewed on or after January 1, 2026, to reimburse an eligible enrollee or insured for up to 12 visits with a behavioral health provider if the enrollee or insured lives in a county where a local or state emergency has been declared due to wildfires and the enrollee or insured has experienced a loss, trauma, or displacement because of the fire. The bill would prohibit these benefits from being subject to utilization review. The bill would require a health care service plan contract or health insurer to provide notice to all affected enrollees of these provisions, as specified. Because a willful violation of these provisions by a health care service plan would be a crime, the bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason.\n\nThis bill would declare that it is to take effect immediately as an urgency statute."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1032"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 23.",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on HEALTH.",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HEALTH.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 16. Noes 0.) (April 29).",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Read second time and amended.",
+      "date": "2025-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on APPR.",
+      "date": "2025-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "In committee: Hearing postponed by committee.",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "APPR",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "APPR. suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Joint Rule 62(a), file notice suspended. (Page 1627.)",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 13. Noes 0.) (May 23).",
+      "date": "2025-05-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Read third time. Urgency clause adopted. Passed. Ordered to the Senate. (Ayes 74. Noes 1. Page 1872.).",
+      "date": "2025-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "date": "2025-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on HEALTH.",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HEALTH.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 8. Noes 0.) (July 9).",
+      "date": "2025-07-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Re-referred to Com. on APPR.",
+      "date": "2025-07-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "In committee: Referred to suspense file.",
+      "date": "2025-08-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended. (Ayes 4. Noes 1.) (August 29).",
+      "date": "2025-08-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered returned to second reading.",
+      "date": "2025-08-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2025-09-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Read third time. Urgency clause adopted. Passed. Ordered to the Assembly. (Ayes 32. Noes 1. Page 2922.).",
+      "date": "2025-09-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "In Assembly. Concurrence in Senate amendments pending.",
+      "date": "2025-09-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 77. Noes 0. Page 3386.).",
+      "date": "2025-09-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 3 p.m.",
+      "date": "2025-09-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Vetoed by Governor.",
+      "date": "2025-10-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Consideration of Governor's veto pending.",
+      "date": "2025-10-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Consideration of Governor's veto stricken from file.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "veto-override-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Harabedian",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Harabedian\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rivas",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rivas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rubio",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rubio\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1032",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1032",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/20/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1032&version=20250AB103299INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-20",
+      "classification": ""
+    },
+    {
+      "note": "05/05/25 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1032&version=20250AB103298AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-05-05",
+      "classification": ""
+    },
+    {
+      "note": "07/15/25 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1032&version=20250AB103297AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-15",
+      "classification": ""
+    },
+    {
+      "note": "08/29/25 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1032&version=20250AB103296AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-29",
+      "classification": ""
+    },
+    {
+      "note": "09/16/25 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1032&version=20250AB103295ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-16",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "04/26/25- Assembly Health",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1032&analysisId=385271&analyzingOffice=Assembly+Health",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-04-26",
+      "classification": "analysis"
+    },
+    {
+      "note": "05/19/25- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1032&analysisId=387062&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-05-19",
+      "classification": "analysis"
+    },
+    {
+      "note": "05/28/25- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1032&analysisId=387766&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-05-28",
+      "classification": "analysis"
+    },
+    {
+      "note": "07/07/25- Senate Health",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1032&analysisId=389777&analyzingOffice=Senate+Health",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-07",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/15/25- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1032&analysisId=390913&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-15",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/29/25- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1032&analysisId=391790&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-29",
+      "classification": "analysis"
+    },
+    {
+      "note": "09/02/25- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1032&analysisId=392278&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-02",
+      "classification": "analysis"
+    },
+    {
+      "note": "09/12/25- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1032&analysisId=393428&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-12",
+      "classification": "analysis"
+    },
+    {
+      "note": "10/23/25- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1032&analysisId=393710&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-23",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1032",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to add Section 1368.9 to the Health and Safety Code, and to add Section 10112.97 to the Insurance Code, relating to health care coverage, and declaring the urgency thereof, to take effect immediately.",
+    "tags": [
+      "fiscal committee",
+      "local program",
+      "urgency"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:12Z"
+  }
+}

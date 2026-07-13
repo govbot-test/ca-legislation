@@ -1,0 +1,512 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "SB303",
+  "title": "Employment: bias mitigation training: unlawful discrimination.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Employment",
+    "biasmitigationtraining",
+    "unlawfuldiscrimination"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law, the California Fair Employment and Housing Act, prohibits various forms of employment and housing discrimination, including various types of discrimination because of national origin. Existing law empowers the Civil Rights Department to investigate and prosecute complaints alleging unlawful practices.\n\nThis bill would provide that an employee's assessment, testing, admission, or acknowledgment of their own personal bias that was made in good faith and solicited or required as part of a bias mitigation training does not constitute unlawful discrimination, as prescribed."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Evidence: exclusions."
+    },
+    {
+      "note": "",
+      "title": "Evidence: privileges and exclusions."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-sb303"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+      "date": "2025-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "From printer. May be acted upon on or after March 13.",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Referred to Coms. on JUD. and PUB. S.",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on JUD. and PUB. S.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Set for hearing April 8.",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "April 8 hearing postponed by committee.",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Set for hearing April 22.",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Set for hearing April 29 in PUB. S. pending receipt.",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on PUB. S. (Ayes 11. Noes 2. Page 834.) (April 22). Re-referred to Com. on PUB. S.",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on PUB. S.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass as amended. (Ayes 5. Noes 1. Page 944.) (April 29).",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered to third reading.",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. (Ayes 28. Noes 10. Page 1306.) Ordered to the Assembly.",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "In Assembly. Read first time. Held at Desk.",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on JUD.",
+      "date": "2025-06-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on JUD.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "June 24 hearing postponed by committee.",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+      "date": "2025-07-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on JUD.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 11. Noes 0.) (July 8).",
+      "date": "2025-07-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2025-07-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. (Ayes 72. Noes 0. Page 2769.) Ordered to the Senate.",
+      "date": "2025-08-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "In Senate. Concurrence in Assembly amendments pending.",
+      "date": "2025-08-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Assembly amendments concurred in. (Ayes 36. Noes 0. Page 2407.) Ordered to engrossing and enrolling.",
+      "date": "2025-09-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 2 p.m.",
+      "date": "2025-09-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Chapter 216, Statutes of 2025.",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Smallwood-Cuevas",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Smallwood-Cuevas\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB303",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB303",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/10/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB303&version=20250SB30399INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-10",
+      "classification": ""
+    },
+    {
+      "note": "05/01/25 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB303&version=20250SB30398AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-05-01",
+      "classification": ""
+    },
+    {
+      "note": "07/02/25 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB303&version=20250SB30397AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-02",
+      "classification": ""
+    },
+    {
+      "note": "09/04/25 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB303&version=20250SB30396ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-04",
+      "classification": ""
+    },
+    {
+      "note": "10/01/25 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB303&version=20250SB30395CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-01",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "04/18/25- Senate Judiciary",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB303&analysisId=384052&analyzingOffice=Senate+Judiciary",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-04-18",
+      "classification": "analysis"
+    },
+    {
+      "note": "04/25/25- Senate Public Safety",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB303&analysisId=384951&analyzingOffice=Senate+Public+Safety",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-04-25",
+      "classification": "analysis"
+    },
+    {
+      "note": "05/02/25- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB303&analysisId=385789&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-05-02",
+      "classification": "analysis"
+    },
+    {
+      "note": "07/03/25- Assembly Judiciary",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB303&analysisId=389652&analyzingOffice=Assembly+Judiciary",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-03",
+      "classification": "analysis"
+    },
+    {
+      "note": "07/11/25- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB303&analysisId=390009&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-11",
+      "classification": "analysis"
+    },
+    {
+      "note": "09/02/25- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB303&analysisId=392026&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-02",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB303",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to add Section 12940.2 to the Government Code, relating to discrimination.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:00Z"
+  }
+}

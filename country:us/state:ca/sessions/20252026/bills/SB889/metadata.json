@@ -1,0 +1,124 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "SB889",
+  "title": "Public social services.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Publicsocialservices"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law establishes various public social services programs, including, among others, CalWORKs and the State Supplementary Program for the Aged, Blind and Disabled. Existing law sets forth the purposes of public social services for which state grants are made to counties that include, among others, providing reasonable support and maintenance for needy and dependent families and persons, as specified.\n\nThis bill would make technical, nonsubstantive changes to those provisions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-sb889"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    },
+    {
+      "description": "From printer. May be acted upon on or after February 14.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on RLS.",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on RLS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:58Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ashby",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ashby\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB889",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB889",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/14/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB889&version=20250SB88999INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB889",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 10001 of the Welfare and Institutions Code, relating to public social services.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:58Z"
+  }
+}

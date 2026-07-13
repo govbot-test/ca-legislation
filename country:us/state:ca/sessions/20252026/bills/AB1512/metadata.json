@@ -1,0 +1,364 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1512",
+  "title": "Elections: ballot language.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections",
+    "ballotlanguage"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law specifies the format of language printed on ballots for various ballot measures relating to local governments, including cities, counties, school districts, and other special districts.\n\nThis bill would revise these ballot language requirements. The bill would generally require the words \"Yes\" and \"No\" to be printed on separate lines of the ballot, with voting targets, to the right of or below the description of the proposal to be voted on."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1512"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee April 10.",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on ELECTIONS.",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on ELECTIONS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended. To Consent Calendar. (Ayes 7. Noes 0.) (April 30).",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Ordered returned to second reading.",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to Consent Calendar.",
+      "date": "2025-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate. (Ayes 69. Noes 0. Page 1488.)",
+      "date": "2025-05-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "date": "2025-05-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on E. & C.A.",
+      "date": "2025-05-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on E. & C.A.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. To Consent Calendar. (Ayes 5. Noes 0.) (July 15).",
+      "date": "2025-07-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to Consent Calendar.",
+      "date": "2025-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 37. Noes 0. Page 2249.).",
+      "date": "2025-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "In Assembly. Ordered to Engrossing and Enrolling.",
+      "date": "2025-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 3 p.m.",
+      "date": "2025-09-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2025-10-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Chapter 303, Statutes of 2025.",
+      "date": "2025-10-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:54Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Committee on Elections",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Committee on Elections\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1512",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1512",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/10/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1512&version=20250AB151299INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-03-10",
+      "classification": ""
+    },
+    {
+      "note": "05/01/25 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1512&version=20250AB151298AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-05-01",
+      "classification": ""
+    },
+    {
+      "note": "08/27/25 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1512&version=20250AB151297ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-27",
+      "classification": ""
+    },
+    {
+      "note": "10/03/25 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1512&version=20250AB151296CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-03",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "04/28/25- Assembly Elections",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1512&analysisId=385587&analyzingOffice=Assembly+Elections",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-04-28",
+      "classification": "analysis"
+    },
+    {
+      "note": "07/11/25- Senate Elections and Constitutional Amendments",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1512&analysisId=390019&analyzingOffice=Senate+Elections+and+Constitutional+Amendments",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-11",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/13/25- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB1512&analysisId=390710&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-13",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1512",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Sections 1004, 5020, 15122, 18333, 18513, 19608, 19724, 24906, 35762, and 72026 of the Education Code, to amend Sections 23271, 23355, 23374.5, 34876.5, 51929, 51930, 51931, and 57137 of, and to repeal and add Section 29903 of, the Government Code, to amend Sections 6463 and 6612 of, and to repeal and add Section 20104 of, the Health and Safety Code, to repeal and add Section 5105 of the Public Resources Code, to amend Sections 2965, 2973, 22740, and 22743 of the Public Utilities Code, to amend Sections 1176, 1182, 26064, and 26163 of the Streets and Highways Code, and to amend Sections 12057, 12889.2, 13417, 21929, 21931, 22171, 22173, 23224, 35520.15, 35520.19, 35884, 39931, 45276, 50976, 60385, 60414, 74099, 74101, 74467, 74833, 74850, 75063, 75065, 75444, 75936, and 76042 of, to repeal Section 42327 of, and to repeal\n\t\t  and add Sections 21930, 22172, 25675, 25703, 45271, 48255, 75168.3, and 75393 of, the Water Code, relating to elections.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:54Z"
+  }
+}

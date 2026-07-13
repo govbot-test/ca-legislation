@@ -1,0 +1,484 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB688",
+  "title": "Telehealth for All Act of 2025.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "TelehealthforAllActof2025"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law establishes the Medi-Cal program, which is administered by the State Department of Health Care Services, under which qualified low-income individuals receive health care services. The Medi-Cal program is, in part, governed and funded by federal Medicaid program provisions.\n\nUnder existing law, in-person, face-to-face contact is not required under the Medi-Cal program when covered health care services are provided by video synchronous interaction, asynchronous store and forward, audio-only synchronous interaction, remote patient monitoring, or other permissible virtual communication modalities, when those services and settings meet certain criteria.\n\nExisting law required the department, on or before January 1, 2023, to develop a research and evaluation plan that, among other things, proposes strategies to analyze the relationship between telehealth and access to care, quality of care, and Medi-Cal program costs, utilization, and program integrity. The department created that plan in December of 2022 and published the Biennial Telehealth Utilization Report in April of 2024.\n\nThis bill, the Telehealth for All Act of 2025, would require the department, commencing in 2028 and every 2 years thereafter, to use Medi-Cal data and other data sources available to the department to produce analyses in a publicly available Medi-Cal telehealth utilization report. The bill would authorize the department to include those analyses in each of the department's Biennial Telehealth Utilization Reports, as specified.\n\nThe bill would require the analyses to address telehealth access and utilization data, including various metrics on telehealth visits and claims, disaggregated by geographic, demographic, and social determinants of health categories to identify disparities. The bill would require the department to identify additional data elements for inclusion in future reports to help to identify and address access-to-care issues or provide greater insight into utilization of telehealth modalities."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab688"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 17.",
+      "date": "2025-02-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on HEALTH.",
+      "date": "2025-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HEALTH.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 15. Noes 0.) (March 25). Re-referred to Com. on APPR.",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "APPR",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "APPR. suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 14. Noes 0.) (May 23).",
+      "date": "2025-05-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate. (Ayes 79. Noes 0. Page 1845.)",
+      "date": "2025-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "date": "2025-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on HEALTH.",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HEALTH.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 11. Noes 0.) (July 2).",
+      "date": "2025-07-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Read second time and amended. Re-referred to Com. on APPR.",
+      "date": "2025-07-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "From committee: Be ordered to second reading file pursuant to Senate Rule 28.8 and ordered to Consent Calendar.",
+      "date": "2025-08-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to Consent Calendar.",
+      "date": "2025-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 37. Noes 0. Page 2251.).",
+      "date": "2025-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "In Assembly. Concurrence in Senate amendments pending.",
+      "date": "2025-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 75. Noes 0. Page 2761.).",
+      "date": "2025-08-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 4 p.m.",
+      "date": "2025-09-04",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2025-10-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Chapter 437, Statutes of 2025.",
+      "date": "2025-10-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mark Gonz\u00e1lez",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mark Gonz\\u00e1lez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Weber Pierson",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Weber Pierson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB688",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB688",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/14/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB688&version=20250AB68899INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-14",
+      "classification": ""
+    },
+    {
+      "note": "07/07/25 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB688&version=20250AB68898AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-07",
+      "classification": ""
+    },
+    {
+      "note": "09/02/25 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB688&version=20250AB68897ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-02",
+      "classification": ""
+    },
+    {
+      "note": "10/07/25 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB688&version=20250AB68896CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-07",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "03/21/25- Assembly Health",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB688&analysisId=382815&analyzingOffice=Assembly+Health",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-03-21",
+      "classification": "analysis"
+    },
+    {
+      "note": "04/08/25- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB688&analysisId=383805&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-04-08",
+      "classification": "analysis"
+    },
+    {
+      "note": "05/28/25- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB688&analysisId=387960&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-05-28",
+      "classification": "analysis"
+    },
+    {
+      "note": "07/02/25- Senate Health",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB688&analysisId=389384&analyzingOffice=Senate+Health",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-02",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/21/25- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB688&analysisId=391452&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/27/25- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB688&analysisId=391616&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-27",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB688",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to add Section 14132.726 to the Welfare and Institutions Code, relating to Medi-Cal.",
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:09Z"
+  }
+}

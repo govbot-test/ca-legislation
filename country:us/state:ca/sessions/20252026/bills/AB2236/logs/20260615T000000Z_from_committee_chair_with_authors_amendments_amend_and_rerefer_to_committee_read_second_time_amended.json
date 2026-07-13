@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on ED.",
+    "occurred_at": "2026-06-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "20252026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage",
+      "committee-passage",
+      "reading-1",
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on ED.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2236",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB2236"
+}

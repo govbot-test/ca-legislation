@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass and be re-referred to the Committee on [Transportation]",
+  "motion_classification": [],
+  "start_date": "2026-04-23T07:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "20252026",
+  "bill": "cab82cca-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "AB1634",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Castillo",
+      "voter_id": "~{\"name\": \"Castillo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tangipa",
+      "voter_id": "~{\"name\": \"Tangipa\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lee",
+      "voter_id": "~{\"name\": \"Lee\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Elhawary",
+      "voter_id": "~{\"name\": \"Elhawary\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Ahrens",
+      "voter_id": "~{\"name\": \"Ahrens\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Calderon",
+      "voter_id": "~{\"name\": \"Calderon\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Blanca Rubio",
+      "voter_id": "~{\"name\": \"Blanca Rubio\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 2
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 4
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1634",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB1634#0"
+}

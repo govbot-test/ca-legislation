@@ -1,0 +1,433 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB681",
+  "title": "California DREAM Loan Program: limits.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CaliforniaDREAMLoanProgram",
+    "limits"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law establishes the California DREAM Loan Program, which authorizes a student attending a participating campus of the University of California or California State University to receive a loan, referred to as a DREAM loan, if the student satisfies certain requirements. Existing law prohibits a student from borrowing more than $4,000 within a single academic year and more than $40,000 in the aggregate under the program. Existing law prohibits a student enrolled in an undergraduate program from borrowing more than $20,000 as an undergraduate student and prohibits a student enrolled in a graduate program from borrowing more than $20,000 as a graduate student.\n\nThis bill would instead prohibit a student enrolled in an undergraduate program from borrowing more than $4,000 within a single academic year, and a student enrolled in a graduate program from borrowing more than $20,500 within a single academic year. The bill would increase the aggregate limit under the program for a student enrolled in a graduate program to $118,500 as a graduate student, while maintaining the $20,000 aggregate limit under the program for a student enrolled in an undergraduate program, thereby increasing the overall aggregate limit under the program for a student who receives a DREAM loan for both undergraduate and graduate enrollment to $138,500."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab681"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 17.",
+      "date": "2025-02-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on HIGHER ED.",
+      "date": "2025-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HIGHER ED.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 2.) (March 18). Re-referred to Com. on APPR.",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 10. Noes 4.) (April 9).",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Senate. (Ayes 61. Noes 10. Page 1419.)",
+      "date": "2025-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "date": "2025-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on ED.",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on ED.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 1.) (June 11). Re-referred to Com. on APPR.",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on APPR.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "In committee: Referred to suspense file.",
+      "date": "2025-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "suspense file.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass. (Ayes 5. Noes 2.) (August 29).",
+      "date": "2025-08-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "Read second time. Ordered to third reading.",
+      "date": "2025-08-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. Ordered to the Assembly. (Ayes 30. Noes 9. Page 2516.).",
+      "date": "2025-09-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "In Assembly. Ordered to Engrossing and Enrolling.",
+      "date": "2025-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to the Governor at 4 p.m.",
+      "date": "2025-09-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2025-10-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State - Chapter 702, Statutes of 2025.",
+      "date": "2025-10-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Elhawary",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Elhawary\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB681",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB681",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/14/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB681&version=20250AB68199INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-14",
+      "classification": ""
+    },
+    {
+      "note": "09/08/25 - Enrolled",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB681&version=20250AB68198ENR",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-08",
+      "classification": ""
+    },
+    {
+      "note": "10/13/25 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB681&version=20250AB68197CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-13",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "03/16/25- Assembly Higher Education",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB681&analysisId=382370&analyzingOffice=Assembly+Higher+Education",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-03-16",
+      "classification": "analysis"
+    },
+    {
+      "note": "04/08/25- Assembly Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB681&analysisId=383804&analyzingOffice=Assembly+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-04-08",
+      "classification": "analysis"
+    },
+    {
+      "note": "04/16/25- ASSEMBLY FLOOR ANALYSIS",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB681&analysisId=383974&analyzingOffice=ASSEMBLY+FLOOR+ANALYSIS",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-04-16",
+      "classification": "analysis"
+    },
+    {
+      "note": "06/09/25- Senate Education",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB681&analysisId=388235&analyzingOffice=Senate+Education",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-06-09",
+      "classification": "analysis"
+    },
+    {
+      "note": "06/20/25- Senate Appropriations",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB681&analysisId=388528&analyzingOffice=Senate+Appropriations",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-06-20",
+      "classification": "analysis"
+    },
+    {
+      "note": "08/29/25- Sen. Floor Analyses",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB681&analysisId=391922&analyzingOffice=Sen.+Floor+Analyses",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-29",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB681",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 70034 of the Education Code, relating to student financial aid.",
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:59Z"
+  }
+}

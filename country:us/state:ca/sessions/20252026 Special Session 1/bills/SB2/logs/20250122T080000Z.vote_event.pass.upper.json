@@ -1,0 +1,98 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass",
+  "motion_classification": [],
+  "start_date": "2025-01-22T08:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "20252026 Special Session 1",
+  "bill": "b3f256d2-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "SB2",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Weber Pierson",
+      "voter_id": "~{\"name\": \"Weber Pierson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wiener",
+      "voter_id": "~{\"name\": \"Wiener\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Laird",
+      "voter_id": "~{\"name\": \"Laird\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gonzalez",
+      "voter_id": "~{\"name\": \"Gonzalez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cabaldon",
+      "voter_id": "~{\"name\": \"Cabaldon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wahab",
+      "voter_id": "~{\"name\": \"Wahab\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Allen",
+      "voter_id": "~{\"name\": \"Allen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Richardson",
+      "voter_id": "~{\"name\": \"Richardson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Niello",
+      "voter_id": "~{\"name\": \"Niello\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ochoa Bogh",
+      "voter_id": "~{\"name\": \"Ochoa Bogh\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520261SB2",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520261SB2#0"
+}

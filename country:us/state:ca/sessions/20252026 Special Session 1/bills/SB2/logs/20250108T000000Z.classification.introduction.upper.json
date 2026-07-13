@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Introduced. Read first time. Referred to Com. on RLS.",
+    "occurred_at": "2025-01-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "20252026 Special Session 1",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on RLS.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520261SB2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2"
+}

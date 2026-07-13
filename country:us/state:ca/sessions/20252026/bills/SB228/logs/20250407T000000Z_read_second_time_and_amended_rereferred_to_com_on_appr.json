@@ -1,0 +1,29 @@
+{
+  "action": {
+    "description": "Read second time and amended. Re-referred to Com. on APPR.",
+    "occurred_at": "2025-04-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "20252026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage",
+      "reading-1",
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on APPR.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB228",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB228"
+}

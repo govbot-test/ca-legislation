@@ -1,0 +1,166 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB2614",
+  "title": "Public health: Body Brokering and Patient Referral Integrity Act.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BodyBrokeringandPatientReferralIntegrityAct",
+    "Publichealth"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Under existing law, the State Department of Health Care Services is responsible for administering prevention, treatment, and recovery services for alcohol and drug abuse and problem gambling. Existing law defines \"alcohol and other drug services\" as a service that is designed to encourage recovery from the abuse of alcohol and other drugs, and \"alcohol and other drug abuse program\" as a collection of alcohol and other drug services that are coordinated to achieve specified objectives. Existing law also provides for the licensure and regulation of adult alcoholism or drug abuse recovery and treatment facilities by the department and authorizes the department to enforce those provisions. \n\nThis bill, the Body Brokering and Patient Referral Integrity Act, would prohibit any person from offering, paying, soliciting, or receiving a commission, benefit, bonus, or other form of remuneration or from engaging in a split-fee arrangement to induce a referral to a residential treatment facility or in return for acceptance of an individual into a residential treatment facility. The bill would make a violation of that provision a misdemeanor. The bill would define a \"residential treatment facility\" to include any sober living home, group home, recovery residence, residential care facility, or similar facility providing housing or residential services, in connection with alcohol or substance use disorder treatment or behavioral health recovery. By creating a new crime, this bill would impose a state-mandated local program.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab2614"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 23.",
+      "date": "2026-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on HEALTH.",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on HEALTH.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Dixon",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dixon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chen",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Davies",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Davies\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ta",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Choi",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Choi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Strickland",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Strickland\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB2614",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2614",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/20/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2614&version=20250AB261499INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-20",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2614",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to add Section 11765 to the Health and Safety Code, relating to public health.",
+    "tags": [
+      "fiscal committee",
+      "local program"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:14Z"
+  }
+}

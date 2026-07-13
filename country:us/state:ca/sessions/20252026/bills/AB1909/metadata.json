@@ -1,0 +1,174 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1909",
+  "title": "Off-highway vehicle: emergency response situation.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Off-highwayvehicle",
+    "emergencyresponsesituation"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Under existing law, generally a motor vehicle may not be driven upon a highway unless it is registered. However, off-highway motor vehicles issued an identification plate or device may cross highways under specified conditions, including, among others, a peace officer in an emergency response situation.\n\nThis bill would similarly authorize first responders, as defined, to operate or drive an off-highway vehicle upon a highway to provide emergency response services or while performing official departmental duties."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Department of Motor Vehicles."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1909"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 15.",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on TRANS.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on TRANS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to Com. on TRANS. Read second time and amended.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on TRANS.",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on TRANS.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Davies",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Davies\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1909",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1909",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/12/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1909&version=20250AB190999INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-12",
+      "classification": ""
+    },
+    {
+      "note": "03/09/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1909&version=20250AB190998AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-09",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1909",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 38025 of the Vehicle Code, relating to vehicles.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:01Z"
+  }
+}

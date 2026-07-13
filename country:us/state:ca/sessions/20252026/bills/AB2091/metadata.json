@@ -1,0 +1,123 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB2091",
+  "title": "Board of supervisors: debt collection.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Boardofsupervisors",
+    "debtcollection"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law authorizes a board of supervisors, with the approval of the tax collector, to assign for purposes of collection any or all delinquent unsecured taxes 90 days after the date upon which they are due and delinquent when, in the judgment of the tax collector, the remedy of collecting taxes due on unsecured property by seizure and sale of property belonging to the assessee will not be used by the tax collector, as specified. \n\nThis bill would delete the above-described condition related to the judgment and use of remedy by the tax collector for collecting delinquent unsecured taxes, as specified."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab2091"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:56Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 21.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:56Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on L. GOV.",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on L. GOV.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB2091",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2091",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/18/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2091&version=20250AB209199INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2091",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 26220 of the Government Code, relating to local government.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:56Z"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB2144",
+  "title": "The California Youth Cardiac Screening Pilot Program.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "TheCaliforniaYouthCardiacScreeningPilotProgram"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The Eric Paredes Sudden Cardiac Arrest Prevention Act requires the State Department of Education to post on its internet website guidelines, videos, and an information sheet on sudden cardiac arrest symptoms and warning signs, and other relevant materials relating to sudden cardiac arrest. The act also places certain duties on schools related to sudden cardiac arrest and requires athletic directors, coaches, athletic trainers, or authorized persons, as defined, to remove from participation a pupil who passes out or faints while participating in or immediately following an athletic activity.\n\nThis bill would require the department, upon appropriation by the Legislature, to establish the California Youth Cardiac Screening Pilot Program to provide, among other things, free cardiac screening for pupils in grades 5 to 12, inclusive, for the 2027\u201328 to 2029\u201330 school years, inclusive, as specified. The bill would authorize the department to administer the program itself or to contract with a nonprofit organization to administer the program and certain funding, as specified. The bill would authorize the department to receive voluntary or reduced-cost services from medical providers and other individuals related to the program. The bill would require the department to annually report certain information to the Department of Finance and to the appropriate policy and fiscal committees of the Legislature, and would repeal the bill's provisions related to the pilot program on January 1, 2031."
+    }
+  ],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "On-campus events: swimming pools: adult presence: cardiopulmonary resuscitation training."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab2144"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 21.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on ED.",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on ED.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "From committee chair, with author's amendments: Amend, and re-refer to Com. on ED. Read second time and amended.",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    },
+    {
+      "description": "Re-referred to Com. on ED.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on ED.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Garcia",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Garcia\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB2144",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2144",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/18/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2144&version=20250AB214499INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    },
+    {
+      "note": "03/18/26 - Amended Assembly",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2144&version=20250AB214498AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2144",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to add and repeal Section 33480 of, and to repeal Section 33479.9 of, the Education Code, relating to pupil health.",
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:02Z"
+  }
+}

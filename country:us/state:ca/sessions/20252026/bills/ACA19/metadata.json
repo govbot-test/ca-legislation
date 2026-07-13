@@ -1,0 +1,138 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "ACA19",
+  "title": "A resolution to propose to the people of the State of California an amendment to the Constitution of the State, by amending Section 8 of Article V thereof, relating to parole.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "constitutional amendment"
+  ],
+  "subject": [
+    "Parole"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The California Constitution delays for 30 days the implementation of any decision by the Board of Parole Hearings granting, denying, revoking, or suspending the parole of a person sentenced to an indeterminate term upon conviction of murder. The California Constitution authorizes the Governor, during this 30-day period, to affirm, modify, or reverse any such decision of the Board of Parole Hearings, and requires the Governor to report to the Legislature each parole decision affirmed, modified, or reversed, stating the pertinent facts and reasons for the action.\n\nThis measure would additionally delay, and authorize the Governor to affirm, modify, or reverse, any decision of the Board of Parole Hearings for the granting of parole for any person receiving parole through any early parole program designated by the Legislature, if that person was convicted of a violent felony, as defined."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-aca19"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To print.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee April 19.",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:08Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sanchez",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sanchez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hoover",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hoover\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tangipa",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tangipa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patterson",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patterson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Niello",
+      "classification": "principal coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Niello\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "ACA19",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACA19",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/19/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACA19&version=20250ACA1999INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-19",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACA19",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:08Z"
+  }
+}

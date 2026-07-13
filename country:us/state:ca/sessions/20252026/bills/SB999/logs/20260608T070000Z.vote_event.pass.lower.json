@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass and be re-referred to the Committee on [Appropriations]",
+  "motion_classification": [],
+  "start_date": "2026-06-08T07:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "20252026",
+  "bill": "b3e6478e-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "SB999",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Gipson",
+      "voter_id": "~{\"name\": \"Gipson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carrillo",
+      "voter_id": "~{\"name\": \"Carrillo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Quirk-Silva",
+      "voter_id": "~{\"name\": \"Quirk-Silva\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McKinnor",
+      "voter_id": "~{\"name\": \"McKinnor\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michelle Rodriguez",
+      "voter_id": "~{\"name\": \"Michelle Rodriguez\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Sanchez",
+      "voter_id": "~{\"name\": \"Sanchez\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DeMaio",
+      "voter_id": "~{\"name\": \"DeMaio\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB999",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB999#2"
+}

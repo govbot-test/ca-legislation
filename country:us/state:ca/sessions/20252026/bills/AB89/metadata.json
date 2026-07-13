@@ -1,0 +1,170 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB89",
+  "title": "Interscholastic sports: gender equity.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Interscholasticsports",
+    "genderequity"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law recognizes the California Interscholastic Federation (\"CIF\") to be a voluntary organization that consists of school and school-related personnel with responsibility for administering interscholastic athletic activities in secondary schools. Existing law requires the CIF to report, as provided, to the appropriate policy committees of the Legislature and the Governor on its goals and objectives with regard to, and the status of, among other things, gender equity in interscholastic athletics, including, but not limited to, the number of male and female pupils participating in interscholastic athletics in secondary schools, and actions it has taken in order to ensure compliance with Title IX of the federal Education Amendments of 1972.\n\nThis bill would require the CIF to amend its constitution, bylaws, and policies to prohibit a pupil whose sex was assigned male at birth from participating on a girls' interscholastic sports team."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab89"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2025-01-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:04Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee February 6.",
+      "date": "2025-01-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:04Z"
+      }
+    },
+    {
+      "description": "Referred to Coms. on A.,E.,S., & T. and ED.",
+      "date": "2025-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on A.,E.,S., & T. and ED.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:04Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Failed passage.",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:04Z"
+      }
+    },
+    {
+      "description": "In committee: Reconsideration refused.",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:04Z"
+      }
+    },
+    {
+      "description": "From committee: Without further action pursuant to Joint Rule 62(a).",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Sanchez",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sanchez\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB89",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB89",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/06/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB89&version=20250AB8999INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-01-06",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "03/28/25- Assembly Arts, Entertainment, Sports, and Tourism",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB89&analysisId=382991&analyzingOffice=Assembly+Arts,+Entertainment,+Sports,+and+Tourism",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-03-28",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB89",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to add Section 33353.8 to the Education Code, relating to interscholastic sports.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:04Z"
+  }
+}

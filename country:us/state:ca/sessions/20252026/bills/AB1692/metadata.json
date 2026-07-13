@@ -1,0 +1,104 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1692",
+  "title": "Energy.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Energy"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The Warren-Alquist State Energy Resources Conservation and Development Act establishes the State Energy Resources Conservation and Development Commission and vests the commission with the authority to, among other things, adopt building design and construction standards and energy and water conservation standards for new residential and nonresidential buildings to reduce the wasteful, uneconomic, inefficient, or unnecessary consumption of energy, including energy associated with the use of water.\n\nThis bill would make nonsubstantive changes to the provision naming the act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1692"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:15Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 6.",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Pacheco",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pacheco\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1692",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1692",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/03/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1692&version=20250AB169299INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-03",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1692",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 25000 of the Public Resources Code, relating to energy.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:15Z"
+  }
+}

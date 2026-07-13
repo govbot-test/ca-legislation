@@ -1,0 +1,104 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1962",
+  "title": "California Indigent Defense Commission.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CaliforniaIndigentDefenseCommission"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law affords a defendant in a criminal case a federal and state constitutional right to have the assistance of counsel for the defendant's defense. Under existing law, if the defendant in a criminal case is unable to employ counsel, the court is required to assign counsel to defend them, as specified.\n\nUnder existing law, one of the primary responsibilities of the State Public Defender is to engage in efforts to improve the quality of indigent defense. Existing law authorizes the State Public Defender to administer and award grants to improve indigent defense services.\n\nThis bill would state the intent of the Legislature to enact legislation that would establish the California Indigent Defense Commission, an entity responsible for ensuring that indigent defense services meet constitutional and professional standards."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1962"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 16.",
+      "date": "2026-02-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hart",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hart\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1962",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1962",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/13/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1962&version=20250AB196299INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-13",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1962",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act relating to indigent defense.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:13Z"
+  }
+}

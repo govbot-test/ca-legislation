@@ -1,0 +1,122 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB2154",
+  "title": "Mortgage applicants.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Mortgageapplicants"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The California Consumer Privacy Act of 2018 grants a consumer various rights with respect to personal information that is collected or sold by a business, as defined, including the right to direct a business that sells or shares personal information about the consumer to third parties not to sell or share the consumer's personal information, as specified.\n\nThe California Financial Information Privacy Act prohibits a financial institution from selling, sharing, transferring, or otherwise disclosing nonpublic personal information to or with any nonaffiliated third parties without the explicit prior consent of the consumer to whom the nonpublic personal information relates, as prescribed.\n\nThis bill would prohibit a person from selling to a third party personal information of a mortgage applicant that was collected by the person during the mortgage application process."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab2154"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:56Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 21.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:56Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on P. & C.P.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on P. & C.P.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Garcia",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Garcia\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB2154",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2154",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/18/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB2154&version=20250AB215499INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-18",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2154",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to add Title 1.81.8 (commencing with Section 1798.400) to Part 4 of Division 3 of the Civil Code, relating to personal information.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:56Z"
+  }
+}

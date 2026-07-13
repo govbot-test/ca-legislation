@@ -1,0 +1,116 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB26",
+  "title": "Eliminate the Politicians' Perks Act of 2025.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "EliminatethePoliticians'PerksActof2025"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The Political Reform Act of 1974 establishes the Fair Political Practices Commission and imposes various restrictions on public officials for the purpose of avoiding conflicts of interests.\n\nThis bill would state the intent of the Legislature to enact legislation that holds elected officials accountable by prohibiting Members of the Legislature from accepting gifts or trading in individual stock, imposing a lifetime lobbying ban, eliminating exemptions for the Legislature from labor, workplace, and public record laws, and eliminating government pensions for local elected officials."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab26"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2024-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee January 2.",
+      "date": "2024-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    },
+    {
+      "description": "Died at Desk.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "DeMaio",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DeMaio\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB26",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB26",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "12/02/24 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB26&version=20250AB2699INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2024-12-02",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB26",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act relating to the Political Reform Act of 1974.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:00Z"
+  }
+}

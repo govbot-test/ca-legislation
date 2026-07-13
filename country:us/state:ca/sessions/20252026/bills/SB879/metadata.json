@@ -1,0 +1,127 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "SB879",
+  "title": "Budget Act of 2026.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill",
+    "appropriation"
+  ],
+  "subject": [
+    "BudgetActof2026"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "This bill would make appropriations for the support of state government for the 2026\u201327 fiscal year.\n\nThis bill would declare that it is to take effect immediately as a Budget Bill."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-sb879"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. Referred to Com. on B. & F. R.",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on B. & F. R.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "From printer.",
+      "date": "2026-01-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Read first time.",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Laird",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Laird\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB879",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB879",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/09/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB879&version=20250SB87999INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-09",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB879",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act making appropriations for the support of the government of the State of California and for several public purposes in accordance with the provisions of Section 12 of Article IV of the Constitution of the State of California, relating to the state budget, to take effect immediately, budget bill.",
+    "tags": [
+      "fiscal committee",
+      "urgency"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:12Z"
+  }
+}

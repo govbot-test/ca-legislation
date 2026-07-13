@@ -1,0 +1,104 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AJR13",
+  "title": "Relative to the censure of members of the California delegation to the United States House of Representatives for supporting cuts to social safety net programs.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [
+    "Cutstosafetynetprograms"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "This measure would censure those members of the United States House of Representatives from Califoria who support cuts to social safety net programs."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ajr13"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To print.",
+      "date": "2025-05-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:11Z"
+      }
+    },
+    {
+      "description": "From printer.",
+      "date": "2025-05-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:11Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bains",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bains\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AJR13",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AJR13",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/23/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AJR13&version=20250AJR1399INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-05-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AJR13",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:11Z"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "From committee: Be adopted and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 13. Noes 0. Page 1562.) (June 10). Re-referred to Com. on APPR.",
+    "occurred_at": "2025-06-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "20252026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage",
+      "committee-passage",
+      "committee-passage-favorable",
+      "passage",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on APPR.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SCR79",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR79"
+}

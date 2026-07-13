@@ -1,0 +1,250 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "SB628",
+  "title": "Employment: employer contributions: employee withholdings: credit: agricultural employees.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Employment",
+    "agriculturalemployees",
+    "credit",
+    "employeewithholdings",
+    "employercontributions"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The Personal Income Tax Law imposes taxes on taxable income, as provided. Under existing law, every employer who pays wages to a resident employee for services performed either within or without this state, or to a nonresident employee for services performed in this state, is required to deduct and withhold from those wages, except as provided, for each payroll, a tax computed in an amount substantially equivalent to the amount reasonably estimated to be due under the Personal Income Tax Law. Under existing law, every employer required to withhold those taxes is required to, for each calendar quarter, file a withholding report, a quarterly return, and a report of wages in a form prescribed by the Employment Development Department, and pay over the taxes required to be withheld.\n\nThis bill would authorize an employer to claim a credit in an amount equal to the amount of overtime wages, as defined, paid during that quarter to specified agricultural employees covered by a certain wage order. The bill would require the credit to be claimed on the employer's report of contributions, quarterly return, and report of wages, or in an electronic funds transfer, as specified. The bill would prohibit the total amount claimed in any given quarter from exceeding the amount that would have been remitted for that quarter to the Employment Development Department for employee withholdings."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-sb628"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "From printer. May be acted upon on or after March 23.",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on L., P.E. & R.",
+      "date": "2025-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on L., P.E. & R.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L., P.E. & R.",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on L., P.E. & R.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Set for hearing April 23.",
+      "date": "2025-04-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "April 23 set for first hearing. Failed passage in committee. (Ayes 1. Noes 4. Page 870.) Reconsideration granted.",
+      "date": "2025-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-failure",
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    },
+    {
+      "description": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:09Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Grove",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Grove\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alanis",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alanis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gallagher",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gallagher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Gonzalez",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Gonzalez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hoover",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hoover\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Macedo",
+      "classification": "coauthor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Macedo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB628",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB628",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/20/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB628&version=20250SB62899INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-20",
+      "classification": ""
+    },
+    {
+      "note": "04/02/25 - Amended Senate",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SB628&version=20250SB62898AMD",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-04-02",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "04/22/25- Senate Committee on Labor, Public Employment and Retirement",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260SB628&analysisId=384758&analyzingOffice=Senate+Committee+on+Labor,+Public+Employment+and+Retirement",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-04-22",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB628",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to add Division 6.1 (commencing with Section 13200) to the Unemployment Insurance Code, relating to employment.",
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:09Z"
+  }
+}

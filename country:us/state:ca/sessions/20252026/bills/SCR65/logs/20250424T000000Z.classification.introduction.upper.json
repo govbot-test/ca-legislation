@@ -1,0 +1,27 @@
+{
+  "action": {
+    "description": "Introduced. Referred to Com. on RLS.",
+    "occurred_at": "2025-04-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "20252026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on RLS.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SCR65",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR65"
+}

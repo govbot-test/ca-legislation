@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass as amended",
+  "motion_classification": [],
+  "start_date": "2025-05-23T07:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "20252026",
+  "bill": "9d9f2d42-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "SB224",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Caballero",
+      "voter_id": "~{\"name\": \"Caballero\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Grayson",
+      "voter_id": "~{\"name\": \"Grayson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Richardson",
+      "voter_id": "~{\"name\": \"Richardson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cabaldon",
+      "voter_id": "~{\"name\": \"Cabaldon\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Wahab",
+      "voter_id": "~{\"name\": \"Wahab\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Seyarto",
+      "voter_id": "~{\"name\": \"Seyarto\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Dahle",
+      "voter_id": "~{\"name\": \"Dahle\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB224",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB224#2"
+}

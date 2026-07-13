@@ -1,0 +1,114 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "ACA11",
+  "title": "A resolution to propose to the people of the State of California an amendment to the Constitution of the State, by adding Section 8 to Article X thereof, relating to water.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "constitutional amendment"
+  ],
+  "subject": [
+    "CaliforniaWaterResiliencyAct"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The California Constitution declares that the general welfare requires that the water resources of the state be put to beneficial use to the fullest extent of which they are capable, and that the right to the use of water does not extend to the waste or unreasonable use, method of use, or method of diversion of water.\n\nThis measure, the California Water Resiliency Act, would require the Treasurer to annually transfer an amount equal to 1% of all state revenues from the General Fund to the Water Conveyance and Capacity Infrastructure Fund, which the measure would create. The measure would continuously appropriate moneys in the fund to the California Water Commission for its actual costs of implementing these provisions and for administering grants for the entitlement, repair, design, and construction of water infrastructure projects that will maintain or expand the availability of clean, safe drinking water for homes and businesses, and water for agricultural uses, consistent with area of origin water rights."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-aca11"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced. To print.",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee April 24.",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Macedo",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Macedo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alanis",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alanis\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "ACA11",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACA11",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/24/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260ACA11&version=20250ACA1199INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-03-24",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACA11",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:55Z"
+  }
+}

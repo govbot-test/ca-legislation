@@ -1,0 +1,92 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass and be re-referred to the Committee on [Public Safety]",
+  "motion_classification": [],
+  "start_date": "2026-01-07T08:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "20252026",
+  "bill": "f620dfba-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "AB68",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Castillo",
+      "voter_id": "~{\"name\": \"Castillo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hoover",
+      "voter_id": "~{\"name\": \"Hoover\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ortega",
+      "voter_id": "~{\"name\": \"Ortega\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bonta",
+      "voter_id": "~{\"name\": \"Bonta\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Garcia",
+      "voter_id": "~{\"name\": \"Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Patel",
+      "voter_id": "~{\"name\": \"Patel\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Muratsuchi",
+      "voter_id": "~{\"name\": \"Muratsuchi\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Wilson",
+      "voter_id": "~{\"name\": \"Wilson\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Lowenthal",
+      "voter_id": "~{\"name\": \"Lowenthal\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 2
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB68",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB68#0"
+}

@@ -1,0 +1,120 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1012",
+  "title": "Medi-Cal: immigration status.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill",
+    "appropriation"
+  ],
+  "subject": [
+    "Medi-Cal",
+    "immigrationstatus"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing federal law provides for the Medicare Program, which is a public health insurance program for persons 65 years of age and older and specified persons with disabilities who are under 65 years of age. Existing law provides for the Medi-Cal program, administered by the State Department of Health Care Services and under which qualified low-income individuals receive health care services. The Medi-Cal program is, in part, governed and funded by federal Medicaid program provisions.\n\nThe federal Medicaid program prohibits payment to a state for medical assistance furnished to an alien who is not lawfully admitted for permanent residence or otherwise permanently residing in the United States under color of law. Existing state law extends Medi-Cal eligibility for the full scope of Medi-Cal benefits to an individual who does not have satisfactory immigrant status if they are otherwise eligible for those benefits, as specified.\n\nThis bill would create the Serving Our Seniors Fund, would make an individual who does not have satisfactory immigrant status ineligible for Medi-Cal benefits, and would transfer funds previously appropriated for the provision of Medi-Cal benefits to those individuals to that fund. The bill would appropriate the moneys in that fund to the State Department of Health Care Services to restore and maintain payments for Medicare Part B premiums for eligible individuals. By making the moneys available without regard to fiscal years, the bill would create a continuous appropriation."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1012"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:56Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 23.",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:56Z"
+      }
+    },
+    {
+      "description": "Died at Desk.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Essayli",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Essayli\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1012",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1012",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/20/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1012&version=20250AB101299INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-20",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1012",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 14007.2 of, to add Article 6 (commencing with Section 15210) to Chapter 9 of Part 3 of Division 9 of, and to repeal Section 14007.8 of, the Welfare and Institutions Code, relating to Medi-Cal, and making an appropriation therefor.",
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:56Z"
+  }
+}

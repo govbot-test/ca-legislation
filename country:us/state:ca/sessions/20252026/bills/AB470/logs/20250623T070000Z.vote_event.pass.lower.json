@@ -1,0 +1,92 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass.",
+  "motion_classification": [],
+  "start_date": "2025-06-23T07:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "20252026",
+  "bill": "ee9e8b34-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "AB470",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Boerner",
+      "voter_id": "~{\"name\": \"Boerner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lowenthal",
+      "voter_id": "~{\"name\": \"Lowenthal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Castillo",
+      "voter_id": "~{\"name\": \"Castillo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hoover",
+      "voter_id": "~{\"name\": \"Hoover\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Blanca Rubio",
+      "voter_id": "~{\"name\": \"Blanca Rubio\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rogers",
+      "voter_id": "~{\"name\": \"Rogers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ahrens",
+      "voter_id": "~{\"name\": \"Ahrens\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Caloza",
+      "voter_id": "~{\"name\": \"Caloza\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Bonta",
+      "voter_id": "~{\"name\": \"Bonta\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB470",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB470#2"
+}

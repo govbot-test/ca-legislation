@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "From committee: Do pass and re-refer to Com. on U. & E. (Ayes 6. Noes 1.) (April 7). Re-referred to Com. on U. & E.",
+    "occurred_at": "2025-04-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "20252026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on U. & E.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB367",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB367"
+}

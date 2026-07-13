@@ -1,0 +1,118 @@
+{
+  "legislative_session": "20252026 Special Session 1",
+  "identifier": "ACA1",
+  "title": "A resolution to propose to the people of the State of California an amendment to the Constitution of the State, by adding Section 23 to Article IV thereof, and adding Section 12 to Article V thereof, relating to legislative process.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "constitutional amendment"
+  ],
+  "subject": [
+    "StopPoliticiansfromViolatingOurConstitutionalRightsActof2025"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The California Constitution vests the legislative power of the State in the California Legislature, which consists of the Senate and Assembly. Under the California Constitution, a bill may not be passed unless, by rollcall vote entered in the journal, a majority of the membership of each house concurs, except for certain bills that require a higher threshold vote. The California Constitution requires a bill passed by the Legislature to be presented to the Governor and provides that the bill becomes a statute if it is signed by the Governor or if it is in the possession of the Governor and is not returned to the house of origin within a specified number of days.\n\nThe California Constitution creates the California Citizens Compensation Commission and requires the commission to establish the annual salary and other benefits of state officers, including the Governor and the Members of the Legislature.\n\nUnder this measure, a Member of the Legislature who voted in favor of a law that is enacted and that is held unconstitutional by a final ruling of a federal court would have their salary reduced by 25% for one year or until the Member leaves that office, whichever is shorter. The measure would require the Member to have their salary reduced by 25% for each law they voted in favor of that was held unconstitutional, not to exceed the amount of the Member's salary. The measure would also require a Governor who signs a law that is held unconstitutional by a final ruling of a federal court to forfeit their salary for one year or until they leave office, whichever is shorter. The measure would require the Governor to forfeit their salary for one year for each law held unconstitutional, not to exceed the number of years the Governor continues to hold that office."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026specialsession1-aca1"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2024-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    },
+    {
+      "description": "From printer.",
+      "date": "2024-12-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    },
+    {
+      "description": "Died at Desk.",
+      "date": "2025-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "DeMaio",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DeMaio\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "ACA1",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520261ACA1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "12/02/24 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520261ACA1&version=20251ACA199INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2024-12-02",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520261ACA1",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": null,
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:01Z"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1839",
+  "title": "Privacy: driver's license information.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Privacy",
+    "driver'slicenseinformation"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law authorizes a business to scan or swipe a driver's license or identification card issued by the Department of Motor Vehicles in any electronic device for prescribed verification and informational purposes. Existing law authorizes an organ procurement organization, as defined, to scan or swipe a driver's license or identification card to transmit information for the purpose of allowing an individual to identify themselves as a registered organ donor, subject to a specified procedure. Existing law prohibits a business or organ procurement organization from retaining or using that information for any other purpose. A violation of those provisions is a misdemeanor.\n\nThis bill would make nonsubstantive changes to those provisions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1839"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:15Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 14.",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Calderon",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Calderon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1839",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1839",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/11/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1839&version=20250AB183999INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-11",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1839",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 1798.90.1 of the Civil Code, relating to privacy.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:15Z"
+  }
+}

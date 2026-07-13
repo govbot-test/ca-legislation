@@ -1,0 +1,110 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass.",
+  "motion_classification": [],
+  "start_date": "2025-04-29T07:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "20252026",
+  "bill": "f3be50a4-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "AB611",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Stefani",
+      "voter_id": "~{\"name\": \"Stefani\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Zbur",
+      "voter_id": "~{\"name\": \"Zbur\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harabedian",
+      "voter_id": "~{\"name\": \"Harabedian\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Connolly",
+      "voter_id": "~{\"name\": \"Connolly\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bryan",
+      "voter_id": "~{\"name\": \"Bryan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kalra",
+      "voter_id": "~{\"name\": \"Kalra\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Papan",
+      "voter_id": "~{\"name\": \"Papan\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Sanchez",
+      "voter_id": "~{\"name\": \"Sanchez\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dixon",
+      "voter_id": "~{\"name\": \"Dixon\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Macedo",
+      "voter_id": "~{\"name\": \"Macedo\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Pacheco",
+      "voter_id": "~{\"name\": \"Pacheco\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Bauer-Kahan",
+      "voter_id": "~{\"name\": \"Bauer-Kahan\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB611",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB611#1"
+}

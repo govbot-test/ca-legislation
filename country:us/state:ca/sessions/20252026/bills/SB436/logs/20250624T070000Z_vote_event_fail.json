@@ -1,0 +1,110 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass.",
+  "motion_classification": [],
+  "start_date": "2025-06-24T07:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "20252026",
+  "bill": "a3e8c9a6-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "SB436",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Zbur",
+      "voter_id": "~{\"name\": \"Zbur\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Garcia",
+      "voter_id": "~{\"name\": \"Garcia\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Connolly",
+      "voter_id": "~{\"name\": \"Connolly\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bryan",
+      "voter_id": "~{\"name\": \"Bryan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kalra",
+      "voter_id": "~{\"name\": \"Kalra\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lee",
+      "voter_id": "~{\"name\": \"Lee\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Sanchez",
+      "voter_id": "~{\"name\": \"Sanchez\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Tangipa",
+      "voter_id": "~{\"name\": \"Tangipa\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Pacheco",
+      "voter_id": "~{\"name\": \"Pacheco\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dixon",
+      "voter_id": "~{\"name\": \"Dixon\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Papan",
+      "voter_id": "~{\"name\": \"Papan\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Harabedian",
+      "voter_id": "~{\"name\": \"Harabedian\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB436",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB436#3"
+}

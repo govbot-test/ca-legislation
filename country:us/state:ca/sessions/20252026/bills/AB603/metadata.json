@@ -1,0 +1,160 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB603",
+  "title": "Asset forfeiture: human trafficking.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Assetforfeiture",
+    "humantrafficking"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The California Control of Profits of Organized Crime Act provides the procedure for the forfeiture of property and proceeds acquired through a pattern of criminal profiteering activity. Under the act, \"criminal profiteering activity\" includes human trafficking, and a \"pattern of criminal profiteering activity\" means engaging in at least 2 incidents of criminal profiteering that meet specific requirements. Under existing law other the act, an interest in a vehicle, real property, or other thing of value that was put to substantial use for the purpose of facilitating the crime of human trafficking that involves a commercial sex act where the victim was less than 18 years of age at the time of the commission of the crime, may be seized and ordered forfeited by the court upon the conviction of a person guilty of human trafficking that involves a commercial sex act where the victim is an individual under 18 years of age.\n\nThis bill would rename the act as the \"California Control of Profits of Organized Crime and Human Trafficking Act\" and recast its provisions to authorize the forfeiture of property and proceeds acquired through human trafficking without the requirement to establish a pattern of criminal profiteering activity. The bill would reallocate the proceeds of forfeiture related to human trafficking to the Victim-Witness Assistance Fund and the Board of State and Community Corrections, as specified. The bill would specify that the provisions of the act are prohibited from being deemed to modify the provisions for forfeiture applicable to an interest in property that was put to substantial use for the purpose of facilitating the crime of human trafficking that involves a commercial sex act where the victim was less than 18 years of age at the time of the commission."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab603"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:15Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 16.",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:15Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on PUB. S.",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on PUB. S.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:15Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:15Z"
+      }
+    },
+    {
+      "description": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+      "date": "2026-01-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:15Z"
+      }
+    },
+    {
+      "description": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Alanis",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Alanis\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB603",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB603",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/13/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB603&version=20250AB60399INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-13",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB603",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Sections 186, 186.1, 186.3, 186.4, 186.5, 186.6, 186.7, and 186.8 of, and to add Section 186.8a to, the Penal Code, relating to crimes.",
+    "tags": [
+      "fiscal committee"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:15Z"
+  }
+}

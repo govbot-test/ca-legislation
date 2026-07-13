@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "From committee: Do pass and re-refer to Com. on REV. & TAX. (Ayes 8. Noes 0.) (March 3). Re-referred to Com. on REV. & TAX.",
+    "occurred_at": "2025-03-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "20252026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on REV. & TAX.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB232",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB232"
+}

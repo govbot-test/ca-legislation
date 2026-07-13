@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "From committee: Do pass and re-refer to Com. on E.M with recommendation: To Consent Calendar. (Ayes 9. Noes 0.) (March 26). Re-referred to Com. on E.M.",
+    "occurred_at": "2025-03-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "20252026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage",
+      "committee-passage-favorable",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on E.M.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB598",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB598"
+}

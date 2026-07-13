@@ -1,0 +1,161 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB844",
+  "title": "Educational equity: sex-segregated school and athletic programs and activities: use of facilities.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Educationalequity",
+    "sex-segregatedschoolandathleticprogramsandactivities",
+    "useoffacilities"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "(1) Existing law requires that a pupil be permitted to participate in sex-segregated school programs and activities, including athletic teams and competitions, and use facilities consistent with the pupil's gender identity, irrespective of the gender listed on the pupil's records.\n\nThis bill would require that a pupil's participation in sex-segregated school programs and activities, including athletic teams and competitions, and use of facilities, including bathrooms, locker rooms, showers, and overnight accommodations instead be based upon the pupil's sex, as defined.\n\n(2) The Donahoe Higher Education Act sets forth, among other things, the missions and functions of California's public and independent segments of higher education and their respective institutions of higher education. A provision of the act applies to the University of California only to the extent that the Regents of the University of California, by appropriate resolution, act to make the provision applicable.\n\nA portion of the Donahoe Higher Education Act, known as the Equity in Higher Education Act, provides, among other things, that all students have the right to participate fully in the educational process, free from discrimination and harassment, and that California's postsecondary educational institutions have an affirmative obligation to combat racism, sexism, and other forms of bias, and a responsibility to provide equal educational opportunity.\n\nThis bill, notwithstanding any other law, would require that a student's participation in sex-segregated athletic programs and activities and use of facilities, including bathrooms, locker rooms, showers, overnight accommodations, and student housing at a postsecondary institution be based upon the student's sex."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab844"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 22.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "Referred to Coms. on A.,E.,S., & T., ED. and Higher ED.",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Coms. on A.,E.,S., & T., ED. and Higher ED.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "In committee: Set, first hearing. Failed passage.",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-unfavorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    },
+    {
+      "description": "From committee: Without further action pursuant to Joint Rule 62(a).",
+      "date": "2025-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:13Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Essayli",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Essayli\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB844",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB844",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/19/25 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB844&version=20250AB84499INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-02-19",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "03/28/25- Assembly Arts, Entertainment, Sports, and Tourism",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billAnalysisClient.xhtml?bill_id=202520260AB844&analysisId=382992&analyzingOffice=Assembly+Arts,+Entertainment,+Sports,+and+Tourism",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-03-28",
+      "classification": "analysis"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB844",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to amend Section 221.5 of, and to add Section 66271.85 to, the Education Code, relating to educational equity.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:13Z"
+  }
+}

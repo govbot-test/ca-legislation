@@ -1,0 +1,68 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+  "motion_classification": [],
+  "start_date": "2025-05-14T07:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "20252026",
+  "bill": "a6904666-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "SB529",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Valladares",
+      "voter_id": "~{\"name\": \"Valladares\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ashby",
+      "voter_id": "~{\"name\": \"Ashby\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Umberg",
+      "voter_id": "~{\"name\": \"Umberg\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Grayson",
+      "voter_id": "~{\"name\": \"Grayson\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "McNerney",
+      "voter_id": "~{\"name\": \"McNerney\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 2
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB529",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB529#1"
+}

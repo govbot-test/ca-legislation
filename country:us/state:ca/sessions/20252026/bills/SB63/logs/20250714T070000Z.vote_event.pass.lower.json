@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass and be re-referred to the Committee on [Appropriations]",
+  "motion_classification": [],
+  "start_date": "2025-07-14T07:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "20252026",
+  "bill": "a97ef0b6-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "SB63",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Quirk-Silva",
+      "voter_id": "~{\"name\": \"Quirk-Silva\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McKinnor",
+      "voter_id": "~{\"name\": \"McKinnor\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carrillo",
+      "voter_id": "~{\"name\": \"Carrillo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gipson",
+      "voter_id": "~{\"name\": \"Gipson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ta",
+      "voter_id": "~{\"name\": \"Ta\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DeMaio",
+      "voter_id": "~{\"name\": \"DeMaio\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Bains",
+      "voter_id": "~{\"name\": \"Bains\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB63",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB63#6"
+}

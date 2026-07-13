@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass and be re-referred to the Committee on [Appropriations]",
+  "motion_classification": [],
+  "start_date": "2025-04-29T07:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "20252026",
+  "bill": "f7c85dc0-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "AB728",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Papan",
+      "voter_id": "~{\"name\": \"Papan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lee",
+      "voter_id": "~{\"name\": \"Lee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McKinnor",
+      "voter_id": "~{\"name\": \"McKinnor\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Connolly",
+      "voter_id": "~{\"name\": \"Connolly\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Castillo",
+      "voter_id": "~{\"name\": \"Castillo\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ellis",
+      "voter_id": "~{\"name\": \"Ellis\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Bauer-Kahan",
+      "voter_id": "~{\"name\": \"Bauer-Kahan\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB728",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260AB728#0"
+}

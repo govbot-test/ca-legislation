@@ -1,0 +1,122 @@
+{
+  "legislative_session": "20252026",
+  "identifier": "AB1978",
+  "title": "California Equal Shared Parenting Act.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "CaliforniaEqualSharedParentingAct"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Existing law provides that it is the public policy of this state to ensure that children have frequent and continuing contact with both parents after the parents have ended their relationship, and to encourage parents to share the rights and responsibilities of child rearing in order to effect this policy, except where the contact would not be in the best interest of the child, as specified. Existing law provides for proceedings to determine the custody of a child, and establishes a presumption, affecting the burden of proof, that joint custody is in the best interest of a minor child, as specified.\n\nThis bill would, for child custody proceedings filed on or after January 1, 2027, establish a rebuttable presumption that equal parenting time is in the best interest of the child if (1) both parents are found fit, willing, and able to parent and (2) both parents reside within 25 miles of the child's primary school or educational institution. The bill would authorize the court to deny equal parenting time if it finds by clear and convincing evidence that shared parenting time is not in the interest of the child due to circumstances that are detrimental to the child, including, but not limited to, a history of substantiated domestic abuse. The bill would require any decision to deny equal parenting time to be substantiated in writing and specify the evidence relied upon."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ca-20252026-ab1978"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read first time. To print.",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "From printer. May be heard in committee March 16.",
+      "date": "2026-02-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    },
+    {
+      "description": "Referred to Com. on JUD.",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on JUD.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:36:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "author",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "AB1978",
+      "links": [
+        {
+          "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1978",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/13/26 - Introduced",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260AB1978&version=20250AB197899INT",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-13",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1978",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "impact_clause": "An act to add Section 3040.1 of the Family Code, relating to family law.",
+    "tags": []
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ca/government",
+    "name": "California",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ca"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:36:12Z"
+  }
+}

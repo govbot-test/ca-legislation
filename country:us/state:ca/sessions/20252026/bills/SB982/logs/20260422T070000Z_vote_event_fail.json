@@ -1,0 +1,80 @@
+{
+  "identifier": "",
+  "motion_text": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+  "motion_classification": [],
+  "start_date": "2026-04-22T07:00:00+00:00",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "20252026",
+  "bill": "b37d2ae2-7dc9-11f1-8096-5acaa86998d0",
+  "bill_action": null,
+  "bill_identifier": "SB982",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Padilla",
+      "voter_id": "~{\"name\": \"Padilla\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Menjivar",
+      "voter_id": "~{\"name\": \"Menjivar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Becker",
+      "voter_id": "~{\"name\": \"Becker\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jones",
+      "voter_id": "~{\"name\": \"Jones\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Niello",
+      "voter_id": "~{\"name\": \"Niello\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Rubio",
+      "voter_id": "~{\"name\": \"Rubio\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Richardson",
+      "voter_id": "~{\"name\": \"Richardson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB982",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "threshold": "1/2"
+  },
+  "dedupe_key": "http://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260SB982#3"
+}

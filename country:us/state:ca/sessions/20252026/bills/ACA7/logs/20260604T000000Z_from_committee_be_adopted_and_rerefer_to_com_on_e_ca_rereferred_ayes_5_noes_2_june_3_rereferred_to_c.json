@@ -1,0 +1,30 @@
+{
+  "action": {
+    "description": "From committee: Be adopted, and re-refer to Com. on E. & C.A. Re-referred. (Ayes 5. Noes 2.) (June 3). Re-referred to Com. on E. & C.A.",
+    "occurred_at": "2026-06-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "20252026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage",
+      "committee-passage",
+      "committee-passage-favorable",
+      "passage",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on E. & C.A.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260ACA7",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "ACA7"
+}

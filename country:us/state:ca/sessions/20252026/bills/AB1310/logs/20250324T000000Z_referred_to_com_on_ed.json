@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Referred to Com. on ED.",
+    "occurred_at": "2025-03-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "20252026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Com. on ED.",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1310",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "AB1310"
+}
