@@ -170,6 +170,28 @@
       }
     },
     {
+      "description": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on L. GOV.",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage",
+        "committee-passage",
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Com. on L. GOV.",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-17T13:16:48Z"
+      }
+    },
+    {
       "description": "From committee: Do pass as amended. (Ayes 8. Noes 2.) (July 1).",
       "date": "2026-07-02",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -335,7 +357,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:36:12Z",
+    "logs_latest_update": "2026-07-17T13:16:48Z",
     "text_extraction_latest_update": "2026-07-13T06:20:15.676453Z"
   }
 }

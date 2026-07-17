@@ -225,6 +225,30 @@
       "_processing": {
         "log_file_created": "2026-07-13T05:36:09Z"
       }
+    },
+    {
+      "description": "Enrolled and filed with the Secretary of State at 2 p.m.",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-17T13:16:48Z"
+      }
+    },
+    {
+      "description": "Chaptered by Secretary of State. Res. Chapter 153, Statutes of 2026.",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-17T13:16:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -282,6 +306,17 @@
       ],
       "date": "2026-07-07",
       "classification": ""
+    },
+    {
+      "note": "07/16/26 - Chaptered",
+      "links": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202520260SCR124&version=20250SCR12496CHP",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-16",
+      "classification": ""
     }
   ],
   "documents": [
@@ -337,7 +372,7 @@
     "division_id": "ocd-division/country:us/state:ca"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:36:09Z",
+    "logs_latest_update": "2026-07-17T13:16:48Z",
     "text_extraction_latest_update": "2026-07-13T15:07:10.834869Z"
   }
 }
